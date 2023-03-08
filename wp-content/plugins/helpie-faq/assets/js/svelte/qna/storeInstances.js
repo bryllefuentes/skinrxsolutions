@@ -1,0 +1,1 @@
+import Store from"./store.js";let storeInstance=new Store;export default storeInstance;

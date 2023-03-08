@@ -1,0 +1,183 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: woo-inquire-us-and-disable-add-to-cart-button (Premium)\n"
+"POT-Creation-Date: 2021-08-14 13:47+0600\n"
+"PO-Revision-Date: 2021-08-14 13:46+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: index.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: admin/class-ratcwp-admin.php:45
+msgid "Remove Cart & Hide Price"
+msgstr ""
+
+#: admin/class-ratcwp-admin.php:205
+msgid "Settings saved successfully."
+msgstr ""
+
+#: admin/ratcwp_setting_template.php:8
+msgid "Hide Price & Add to Cart"
+msgstr ""
+
+#: admin/ratcwp_setting_template.php:16
+msgid "Hide for All Users"
+msgstr ""
+
+#: admin/ratcwp_setting_template.php:21
+msgid "Hide for Guest Users"
+msgstr ""
+
+#: admin/ratcwp_setting_template.php:26
+msgid "Hide for Registered Users"
+msgstr ""
+
+#: admin/ratcwp_setting_template.php:31
+msgid "Select User Roles"
+msgstr ""
+
+#: admin/ratcwp_setting_template.php:58
+msgid ""
+"Select User Roles for which users you want to hide price and add to cart on "
+"frontend. If no user role is selected then price and add to cart will not be "
+"hidden for registered users."
+msgstr ""
+
+#: admin/ratcwp_setting_template.php:64 index.php:153 index.php:701
+msgid "Hide Price"
+msgstr ""
+
+#: admin/ratcwp_setting_template.php:67
+msgid ""
+"If this option is checked then Price is hidden on the archive and product "
+"pages, also Add to Cart button is hidden, becuase if Price is hidden then "
+"there will be no need of Add to Cart button."
+msgstr ""
+
+#: admin/ratcwp_setting_template.php:69
+msgid "Note: Add to Cart Button is automatically hidden if Price is hidden."
+msgstr ""
+
+#: admin/ratcwp_setting_template.php:74
+msgid "Price Text"
+msgstr ""
+
+#: admin/ratcwp_setting_template.php:77
+msgid "This text will be shown in place of price in archive and product pages."
+msgstr ""
+
+#: admin/ratcwp_setting_template.php:82
+msgid "Hide Add to Cart Button"
+msgstr ""
+
+#: admin/ratcwp_setting_template.php:85
+msgid ""
+"If this option is checked then Add To Cart button is hidden on the archive "
+"and product pages."
+msgstr ""
+
+#: admin/ratcwp_setting_template.php:90
+msgid "Add to Cart Button Text"
+msgstr ""
+
+#: admin/ratcwp_setting_template.php:93
+msgid "This text will be shown in place of text of Add to Cart Button."
+msgstr ""
+
+#: admin/ratcwp_setting_template.php:98
+msgid "Add to Cart Button Link"
+msgstr ""
+
+#: admin/ratcwp_setting_template.php:101
+msgid "This link will replace Add to Cart Button link."
+msgstr ""
+
+#: admin/ratcwp_setting_template.php:107
+msgid "Select Products"
+msgstr ""
+
+#: admin/ratcwp_setting_template.php:128
+msgid "Select Products for which you want to hide price and add to cart."
+msgstr ""
+
+#: admin/ratcwp_setting_template.php:134
+msgid "Select Categories"
+msgstr ""
+
+#: admin/ratcwp_setting_template.php:359
+msgid ""
+"Select Categories for which Products you want to hide price and add to cart."
+msgstr ""
+
+#: admin/ratcwp_setting_template.php:370
+msgid "Save Settings"
+msgstr ""
+
+#: index.php:103 index.php:610 index.php:684
+msgid "Alter Add to Cart Button"
+msgstr ""
+
+#: index.php:124 index.php:619 index.php:693
+msgid "Inquire Us Link"
+msgstr ""
+
+#: index.php:138 index.php:706
+msgid "Inquire Us Text"
+msgstr ""
+
+#: index.php:267
+msgid "Detailed Description"
+msgstr ""
+
+#: index.php:371 index.php:614 index.php:688
+msgid "Inquire Us"
+msgstr ""
+
+#: index.php:612 index.php:686
+msgid "Default"
+msgstr ""
+
+#: index.php:613 index.php:687
+msgid "Remove Button"
+msgstr ""
+
+#: index.php:622 index.php:696
+msgid "Enter the URL to Inquire Us button."
+msgstr ""
+
+#: index.php:666
+msgid "Remove Cart Button"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "woo-inquire-us-and-disable-add-to-cart-button (Premium)"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.themelocation.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "The plugin allows to woo-inquire-us-and-disable-add-to-cart-button"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "themelocation"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.themelocation.com"
+msgstr ""

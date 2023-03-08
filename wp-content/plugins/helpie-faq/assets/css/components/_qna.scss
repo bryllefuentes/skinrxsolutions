@@ -1,0 +1,222 @@
+$highlight_color1 : #157dec;
+$highlight_color2 : #92deff;
+$highlight_color3 : #1e4165;
+
+/* Layout */
+
+.helpiefaq__qna__section .col {
+    display: inline-block
+}
+
+.helpiefaq__qna__section .col__2 {
+    float: left;
+    // width: calc(100% * (2/12));
+    width: 80px;
+}
+
+.helpiefaq__qna__section .col__3 {
+    float: left;
+    width: calc(100% * (3/12));
+}
+
+.helpiefaq__qna__section .col__9 {
+    float: left;
+    width: calc(100% * (8/12));
+}
+
+.helpiefaq__qna__section .col__10 {
+    float: left;
+    width: calc(100% * (10/12));
+}
+
+.helpiefaq__qna__section .row {
+    padding: 0;
+    padding-bottom: 10px;
+    margin: 0;
+
+    &:after {
+        content: "";
+        display: table;
+        clear: both;
+
+    }
+}
+
+
+.helpiefaq__qna__section {
+
+    & .search {
+        width: 100%;
+        padding: 10px;
+        background: white;
+        margin: 0 auto;
+        width: 100%;
+        height: 45px;
+        padding: 0 20px;
+        font-size: 1rem;
+        border: 1px solid #d0cfce;
+        outline: none;
+        margin-bottom: 15px;
+    }
+
+    & .submission__box {
+        width: 100%;
+        padding: 10px;
+        margin-bottom: 10px;
+    }
+
+    & .helpiefaq__singleqna__question {
+        font-size: 100%;
+        font-weight: 600;
+        padding-right: 10px;
+
+        & a {
+            font-size: 1.2rem;
+            color: black;
+            text-decoration: none;
+
+            &:hover {
+                text-decoration: underline;
+            }
+        }
+    }
+
+    & .submit-qna,
+    & .cancel-qna {
+        padding: 5px;
+        background-color: #444;
+        color: white;
+
+        &.question {
+            background-color: $highlight_color1;
+            padding: 7px;
+            border: solid 1px $highlight_color3;
+            // border: none;
+            color: white;
+        }
+    }
+}
+
+
+
+.helpiefaq__votebutton__group {
+    // width: 100px;
+
+
+    & .single {
+        position: relative;
+        // width: 50px;
+        padding: 6px 6px;
+        font-size: 13px;
+        float: left;
+        // background-color: rgba(0, 0, 1, 0.03);
+        border: none;
+        border-radius: 5px;
+
+        &.blue {
+            background-color: #157dec;
+            color: white;
+        }
+
+        &.alreadyVoted {
+            background-color: #9fcdff;
+        }
+
+        &:hover {
+            background-color: #157dec;
+        }
+    }
+
+    & .icon {
+        width: 20px;
+        float: left;
+        // line-height: 19px;
+        font-size: 32px;
+
+        &::before {
+            // content: attr(data-value);
+            position: absolute;
+            // white-space: pre;
+            // display: inline;
+            top: -1px;
+            left: 0;
+            // transform: translate(-50%, -25px);
+        }
+    }
+
+    & .vote_count {
+        float: left;
+        line-height: 17px;
+        padding-left: 2px;
+    }
+
+
+
+    // & .up {
+    //     color: green;
+    //     -webkit-border-top-left-radius: 25px;
+    //     -webkit-border-bottom-left-radius: 25px;
+    //     -moz-border-radius-topleft: 25px;
+    //     -moz-border-radius-bottomleft: 25px;
+    //     border-top-left-radius: 25px;
+    //     border-bottom-left-radius: 25px;
+    //     border-right: solid 1px #999;
+    // }
+
+    // & .down {
+    //     color: red;
+    //     -webkit-border-top-right-radius: 25px;
+    //     -webkit-border-bottom-right-radius: 25px;
+    //     -moz-border-radius-topright: 25px;
+    //     -moz-border-radius-bottomright: 25px;
+    //     border-top-right-radius: 25px;
+    //     border-bottom-right-radius: 25px;
+
+    //     & .vote_count {
+    //         padding-right: 10px;
+    //     }
+    // }
+
+
+
+
+}
+
+.helpiefaq__singleqna {
+    border-bottom: solid 1px #ccc;
+    margin-bottom: 1.5em;
+}
+
+.helpiefaq__vote__container {
+    width: 100%;
+    position: relative;
+    float: left;
+}
+
+.helpiefaq__singleqna__answer {
+    margin-bottom: 1em;
+
+    & p {
+        margin-bottom: 0.2em;
+    }
+
+    & .answer-icon {
+        height: 25px;
+        width: 25px;
+        background-color: #92deff;
+        border-radius: 50%;
+        display: inline-block;
+        text-align: center;
+        color: white;
+        font-weight: bold;
+        line-height: 22px;
+    }
+
+    & .qna-answer-meta {
+        color: #999;
+        font-size: 95%;
+    }
+}
+
+
+/* Style */

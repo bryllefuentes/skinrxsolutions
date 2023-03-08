@@ -1,0 +1,283 @@
+# Copyright (C) 2022 GrandPlugins
+# This file is distributed under the same license as the WooCommerce Coming Soon Products [GrandPlugins] plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Coming Soon Products [GrandPlugins] 1.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/gpls-wcsamm-coming-soon-products-for-woocommerce\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-01-19T11:49:57+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: gpls-wcsamm-coming-soon-for-woocommerce\n"
+
+#. Plugin Name of the plugin
+msgid "WooCommerce Coming Soon Products [GrandPlugins]"
+msgstr ""
+
+#. Description of the plugin
+msgid "Allow Coming Soon mode for WooCommerce Products."
+msgstr ""
+
+#. Author of the plugin
+msgid "GrandPlugins"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://grandplugins.com"
+msgstr ""
+
+#: gpls-wcsamm-woo-coming-soon-products-for-woocommerce.php:98
+msgid "WooCommerce plugin is required in order to activate the plugin"
+msgstr ""
+
+#: includes/class-coming-soon-backend.php:109
+#: includes/class-coming-soon.php:79
+msgid "Coming Soon"
+msgstr ""
+
+#: includes/class-coming-soon-backend.php:138
+msgid "Coming Soon Mode"
+msgstr ""
+
+#: includes/class-coming-soon-backend.php:139
+msgid "Enable coming soon mode"
+msgstr ""
+
+#: includes/class-coming-soon-backend.php:146
+#: includes/class-coming-soon.php:87
+msgid "Coming Soon Text"
+msgstr ""
+
+#: includes/class-coming-soon-backend.php:148
+msgid "It will be shown in single product page after product short description"
+msgstr ""
+
+#: includes/class-coming-soon-backend.php:157
+msgid "Arrival Time"
+msgstr ""
+
+#: includes/class-coming-soon-backend.php:158
+msgid "Remaining time until arrival is calculated based on the site's timezone"
+msgstr ""
+
+#: includes/class-coming-soon-backend.php:166
+msgid "Show Countdown"
+msgstr ""
+
+#: includes/class-coming-soon-backend.php:167
+msgid "Show the arrival time countdown"
+msgstr ""
+
+#: includes/class-coming-soon-backend.php:174
+msgid "Hide Price"
+msgstr ""
+
+#: includes/class-coming-soon-backend.php:175
+msgid "Hide the product price"
+msgstr ""
+
+#: includes/class-coming-soon-backend.php:182
+msgid "Disable Backorders"
+msgstr ""
+
+#: includes/class-coming-soon-backend.php:183
+msgid "Disable purchasing the product in backorder."
+msgstr ""
+
+#: includes/class-coming-soon-backend.php:258
+#: includes/class-coming-soon-backend.php:327
+#: includes/settings.php:90
+msgid "Coming Soon Products"
+msgstr ""
+
+#: includes/class-coming-soon-frontend.php:94
+#: includes/settings.php:236
+#: templates/settings/countdown-settings.php:45
+msgid "Days"
+msgstr ""
+
+#: includes/class-coming-soon-frontend.php:95
+#: includes/settings.php:237
+#: templates/settings/countdown-settings.php:95
+msgid "Hours"
+msgstr ""
+
+#: includes/class-coming-soon-frontend.php:96
+#: includes/settings.php:238
+#: templates/settings/countdown-settings.php:145
+msgid "Minutes"
+msgstr ""
+
+#: includes/class-coming-soon-frontend.php:97
+#: includes/settings.php:239
+#: templates/settings/countdown-settings.php:195
+msgid "Seconds"
+msgstr ""
+
+#: includes/settings.php:95
+msgid "Badge"
+msgstr ""
+
+#: includes/settings.php:99
+msgid "Countdown"
+msgstr ""
+
+#: includes/settings.php:234
+msgid "Only images are allowed"
+msgstr ""
+
+#: includes/settings.php:265
+msgid "no file uploaded!"
+msgstr ""
+
+#: includes/settings.php:300
+msgid "file upload is failed!"
+msgstr ""
+
+#: includes/settings.php:311
+msgid "file already exists!"
+msgstr ""
+
+#: includes/settings.php:345
+msgid "file is empty!"
+msgstr ""
+
+#: includes/settings.php:358
+msgid "file type is invalid!"
+msgstr ""
+
+#: includes/settings.php:373
+msgid "The uploaded file could not be moved to %s."
+msgstr ""
+
+#: includes/settings.php:390
+msgid "Badge icons is added successfully!"
+msgstr ""
+
+#: includes/settings.php:435
+msgid "%s"
+msgstr ""
+
+#: templates/settings/badge-settings.php:9
+msgid "Badge Status"
+msgstr ""
+
+#: templates/settings/badge-settings.php:14
+msgid "Enable the Badge"
+msgstr ""
+
+#: templates/settings/badge-settings.php:21
+msgid "Badge Icon"
+msgstr ""
+
+#: templates/settings/badge-settings.php:30
+msgid "Available Icons"
+msgstr ""
+
+#: templates/settings/badge-settings.php:56
+msgid "Dimension"
+msgstr ""
+
+#: templates/settings/badge-settings.php:61
+msgid "Width"
+msgstr ""
+
+#: templates/settings/badge-settings.php:65
+msgid "Height"
+msgstr ""
+
+#: templates/settings/badge-settings.php:74
+msgid "Padding"
+msgstr ""
+
+#: templates/settings/badge-settings.php:79
+msgid "Left"
+msgstr ""
+
+#: templates/settings/badge-settings.php:83
+msgid "Top"
+msgstr ""
+
+#: templates/settings/badge-settings.php:92
+msgid "Angle"
+msgstr ""
+
+#: templates/settings/countdown-settings.php:11
+msgid "Loop Settings"
+msgstr ""
+
+#: templates/settings/countdown-settings.php:12
+msgid "Settings for countdown on loop pages like shop, categories, tags pages, etc..."
+msgstr ""
+
+#: templates/settings/countdown-settings.php:18
+msgid "Coming Soon Countdown"
+msgstr ""
+
+#: templates/settings/countdown-settings.php:22
+msgid "Show the coming soon countdown on loop pages"
+msgstr ""
+
+#: templates/settings/countdown-settings.php:30
+msgid "Show Coming Soon Text"
+msgstr ""
+
+#: templates/settings/countdown-settings.php:34
+msgid "Show the product coming soon text on loop pages"
+msgstr ""
+
+#: templates/settings/countdown-settings.php:50
+#: templates/settings/countdown-settings.php:100
+#: templates/settings/countdown-settings.php:150
+#: templates/settings/countdown-settings.php:200
+msgid "Title Color"
+msgstr ""
+
+#: templates/settings/countdown-settings.php:61
+#: templates/settings/countdown-settings.php:111
+#: templates/settings/countdown-settings.php:161
+#: templates/settings/countdown-settings.php:211
+msgid "Front Color"
+msgstr ""
+
+#: templates/settings/countdown-settings.php:72
+#: templates/settings/countdown-settings.php:122
+#: templates/settings/countdown-settings.php:172
+#: templates/settings/countdown-settings.php:222
+msgid "Back Color"
+msgstr ""
+
+#: templates/settings/countdown-settings.php:83
+#: templates/settings/countdown-settings.php:133
+#: templates/settings/countdown-settings.php:183
+#: templates/settings/countdown-settings.php:233
+msgid "Divider Color"
+msgstr ""
+
+#: templates/settings/subscribe-settings.php:16
+msgid "Subscription Form Title"
+msgstr ""
+
+#: templates/settings/subscribe-settings.php:27
+msgid "After Submit Text"
+msgstr ""
+
+#: templates/settings/subscribe-settings.php:28
+msgid "This text will appear after the Subscription form is submitted"
+msgstr ""
+
+#: templates/settings/subscribe-settings.php:39
+msgid "Submit Button Background"
+msgstr ""
+
+#: templates/settings/subscribe-settings.php:50
+msgid "Submit Button Color"
+msgstr ""
+
+#: templates/settings/subscribe-settings.php:61
+msgid "Consent Text"
+msgstr ""

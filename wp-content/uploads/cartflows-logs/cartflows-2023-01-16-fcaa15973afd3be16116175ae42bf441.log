@@ -1,0 +1,13 @@
+2023-01-16T01:46:10+00:00 INFO Is weekly report enabled: enable
+2023-01-16T12:39:50+00:00 INFO Is weekly report enabled: enable
+2023-01-16T12:39:50+00:00 INFO Is weekly report enabled: enable
+2023-01-16T12:40:46+00:00 INFO Is weekly report enabled: enable
+2023-01-16T12:41:47+00:00 INFO Is weekly report enabled: enable
+2023-01-16T12:43:49+00:00 INFO Is weekly report enabled: enable
+2023-01-16T12:45:49+00:00 INFO Is weekly report enabled: enable
+2023-01-16T12:47:50+00:00 INFO Is weekly report enabled: enable
+2023-01-16T12:49:50+00:00 INFO Is weekly report enabled: enable
+2023-01-16T12:49:51+00:00 INFO Is weekly report enabled: enable
+2023-01-16T15:45:07+00:00 INFO Start-Cartflows_Admin_Report_Emails::send_weekly_report_email
+2023-01-16T15:45:07+00:00 INFO Send weekly emails to skinrx.tv@gmail.com
+2023-01-16T15:45:07+00:00 INFO Total Revenue: 0.00

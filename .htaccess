@@ -1,0 +1,37 @@
+#Automaition Start
+# This block is generated automatically.
+# Do not make any changes to the section between marks "Automaition Start" and "Automaition End". 
+# This section was created to bind multiple domains to one Wordpress site. 
+# When you move the Productions to the Staging, everything between marks "Automaition Start" and "Automaition End" will be deleted. 
+# When you move the Staging to the Production this section will be created again.
+RewriteEngine On
+RewriteCond %{HTTP_HOST} !^skinrxsolutions.com [NC]
+RewriteCond %{HTTP_HOST} !^$
+RewriteRule ^/?(.*) http%1://skinrxsolutions.com/$1 [L,R,NE]
+#Automaition End
+
+# BEGIN WordPress
+# The directives (lines) between "BEGIN WordPress" and "END WordPress" are
+# dynamically generated, and should only be modified via WordPress filters.
+# Any changes to the directives between these markers will be overwritten.
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
+
+
+# BEGIN LiteSpeed
+# The directives (lines) between "BEGIN LiteSpeed" and "END LiteSpeed" are
+# dynamically generated, and should only be modified via WordPress filters.
+# Any changes to the directives between these markers will be overwritten.
+<IfModule Litespeed>
+SetEnv noabort 1
+</IfModule>
+# END LiteSpeed

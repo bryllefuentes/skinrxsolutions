@@ -1,0 +1,31 @@
+# Copyright (C) 2020 mvvapps
+# This file is distributed under the same license as the MVV WooCommerce Booking Addon plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: MVV WooCommerce Booking Addon 3.0.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/booking-for-woocommerce-pro-dev\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-03-28T15:45:42+01:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: booking-for-woocommerce-pro-dev\n"
+
+#. Plugin Name of the plugin
+msgid "MVV WooCommerce Booking Addon"
+msgstr ""
+
+#. Description of the plugin
+msgid "Booking and Reservation Addon for WooCommerce"
+msgstr ""
+
+#. Author of the plugin
+msgid "mvvapps"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://mvvapps.com"
+msgstr ""

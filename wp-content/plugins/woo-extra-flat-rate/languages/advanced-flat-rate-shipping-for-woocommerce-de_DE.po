@@ -1,0 +1,3480 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-23 17:29+0530\n"
+"PO-Revision-Date: 2022-05-05 13:44+0000\n"
+"Last-Translator: \n"
+"Language-Team: Deutsch\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: .\n"
+"X-Loco-Version: 2.6.1; wp-5.9.3"
+
+#: admin/partials/afrsm-premium-version-page.php:44
+msgid " / 5.0 rating from"
+msgstr "/ 5.0 Bewertung von"
+
+#: admin/partials/afrsm-premium-version-page.php:44
+msgid " customers"
+msgstr " Kunden"
+
+#: admin/partials/afrsm-pro-information-page.php:33
+msgid " to view license and terms of use."
+msgstr " um die Lizenz- und Nutzungsbedingungen anzuzeigen."
+
+#: admin/partials/afrsm-pro-shipping-zone-page.php:183
+msgid " Zone type is required"
+msgstr " Zonentyp ist erforderlich"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1375
+#, php-format
+msgid "\"%s\" shipping class cost"
+msgstr "Kosten der Versandklasse \"%s\""
+
+#: admin/partials/afrsm-pro-add-new-page.php:1414
+#: admin/partials/afrsm-pro-add-new-page.php:1841
+#: admin/partials/afrsm-pro-add-new-page.php:2036
+#: admin/partials/afrsm-pro-add-new-page.php:2236
+#: admin/partials/afrsm-pro-add-new-page.php:2435
+#: admin/partials/afrsm-pro-add-new-page.php:2634
+#: admin/partials/afrsm-pro-add-new-page.php:2841
+#: admin/partials/afrsm-pro-add-new-page.php:3040
+#: admin/partials/afrsm-pro-add-new-page.php:3250
+#: admin/partials/afrsm-pro-add-new-page.php:3443
+#: admin/partials/afrsm-pro-add-new-page.php:3647
+msgid "+ Add Rule"
+msgstr "+ Regel hinzufügen"
+
+#: admin/partials/afrsm-pro-add-new-page.php:561
+msgid ""
+"1. If you want to apply the fee for each quantity - where quantity should "
+"calculated based on\n"
+"                                        product/category/tag conditions, "
+"then select the \"Product Based\" option. "
+msgstr ""
+"1. Wenn Sie die Gebühr für jede Menge erheben möchten - wobei die Menge "
+"basierend auf berechnet werden soll\n"
+"                                         Produkt-/Kategorie-/Tag-Bedingungen "
+"und wählen Sie dann die Option \"Produktbasiert\"."
+
+#: admin/partials/afrsm-pro-add-new-page.php:565
+msgid ""
+"2. If you want to apply the fee for each quantity in the customer's cart,\n"
+"                                        then select the \"Cart Based\" "
+"option."
+msgstr ""
+"2. Wenn Sie die Gebühr für jede Menge im Warenkorb des Kunden anwenden "
+"möchten,\n"
+"                                         Wählen Sie dann die Option "
+"\"Warenkorbbasiert\"."
+
+#: admin/partials/header/plugin-sidebar.php:65
+#: admin/partials/header/plugin-sidebar.php:98
+msgid "20% OFF"
+msgstr "20% RABATT"
+
+#: admin/partials/afrsm-premium-version-page.php:44
+msgid "4.9"
+msgstr "4.9"
+
+#: admin/partials/afrsm-premium-version-page.php:44
+msgid "64"
+msgstr "64"
+
+#: admin/partials/afrsm-premium-version-page.php:276
+#, php-format
+msgid ""
+"97% of customers are happy with theDotstore Plugins, and it’s a great time "
+"to join them: as a Flat rate shipping Plugin user you’ll get a free trial "
+"period, so you can see what all the fuss is about."
+msgstr ""
+"97% der Kunden sind mit den Dotstore-Plugins zufrieden, und es ist eine "
+"großartige Zeit, sich ihnen anzuschließen: Als Nutzer eines Flatrate-Versand-"
+"Plugins erhalten Sie eine kostenlose Testphase, damit Sie sehen können, "
+"worum es bei der ganzen Aufregung geht."
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:477
+msgid ""
+"<p><b style=\"color: red;\">Note: </b>If entered price is more than total "
+"shipping price than Message looks like: <b>Shipping Method Name: Curreny "
+"Symbol like($) -60.00 Price </b> and if shipping minus price is more than "
+"total price than it will set Total Price to Zero(0).</p>"
+msgstr ""
+"<p><b style=\"color: red;\">Hinweis: </b>Wenn der eingegebene Preis höher "
+"als der Gesamtversandpreis ist, sieht die Nachricht wie folgt aus: <b>Name "
+"der Versandart: Währung Symbol wie($) -60,00 Preis </b> und wenn der "
+"abzüglich Versandpreis höher als der Gesamtpreis ist, wird der Gesamtpreis "
+"auf Null (0) gesetzt.</p>"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:558
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:576
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:641
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:659
+msgid ""
+"<p><b style=\"color: red;\">Note: </b>If entered price is more than total "
+"shipping price than Message looks like: <b>Shipping Method Name: Curreny "
+"Symbole like($) -60.00 Price </b> and if shipping minus price is more than "
+"total price than it will set Total Price to Zero(0).</p>"
+msgstr ""
+"<p><b style=\"color: red;\">Hinweis: </b>Wenn der eingegebene Preis den "
+"Gesamtversandpreis übersteigt, sieht die Nachricht folgendermaßen aus: <b>"
+"Name der Versandart: Währung Symbole like($) -60,00 Preis </b> und wenn der "
+"abzüglich Versandpreis höher als der Gesamtpreis ist, wird der Gesamtpreis "
+"auf Null (0) gesetzt.</p>"
+
+#: advanced-flat-rate-shipping-for-woocommerce.php:307
+#: advanced-flat-rate-shipping-for-woocommerce.php:312
+msgid ""
+"<strong>Advanced Flat Rate Shipping For WooCommerce is successfully "
+"installed and ready to go.</strong>"
+msgstr ""
+"<strong>Advanced Flat Rate Shipping For WooCommerce wurde erfolgreich "
+"installiert und ist einsatzbereit.</strong>"
+
+#: admin/partials/afrsm-pro-get-started-page.php:105
+msgid ""
+"<strong>Important Note: </strong>This plugin is only compatible with "
+"WooCommerce version 3.0 and more."
+msgstr ""
+"<strong>Wichtiger Hinweis: </strong>Dieses Plugin ist nur mit WooCommerce "
+"Version 3.0 und höher kompatibel."
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:6014
+msgid "<strong>No post to duplicate has been supplied!</strong>"
+msgstr "<strong>Es wurde kein Beitrag zum Duplizieren bereitgestellt!</strong>"
+
+#: admin/partials/afrsm-pro-get-started-page.php:27
+msgid ""
+"<strong>Step 1: </strong>Setup Shipping Method Configuration with Shipping "
+"Method Rules."
+msgstr ""
+"<strong>Schritt 1: </strong>Richten Sie die Versandmethodenkonfiguration mit "
+"Versandmethodenregeln ein."
+
+#: admin/partials/afrsm-pro-get-started-page.php:53
+msgid "<strong>Step 2: </strong>You can see list of all shipping methods."
+msgstr ""
+"<strong>Schritt 2: </strong>Sie können eine Liste aller Versandmethoden "
+"anzeigen."
+
+#: admin/partials/afrsm-pro-get-started-page.php:79
+msgid ""
+"<strong>Step 3: </strong>Enable shipping method on the cart/checkout page if "
+"rule is satisfied."
+msgstr ""
+"<strong>Schritt 3: </strong>Aktivieren Sie die Versandmethode auf der "
+"Warenkorb-/Checkout-Seite, wenn die Regel erfüllt ist."
+
+#: admin/partials/afrsm-pro-add-new-page.php:749
+#: admin/partials/afrsm-pro-add-new-page.php:753
+msgid "[In Pro]"
+msgstr "[Im Profi]"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1747
+#: admin/partials/afrsm-pro-add-new-page.php:1751
+#: admin/partials/afrsm-pro-list-page.php:355
+#: admin/partials/afrsm-pro-list-page.php:370
+#: admin/partials/afrsm-pro-list-page.php:380
+msgid "[New]"
+msgstr "[Neu]"
+
+#: admin/partials/afrsm-pro-add-new-page.php:2106
+#: admin/partials/afrsm-pro-add-new-page.php:2306
+#: admin/partials/afrsm-pro-add-new-page.php:2501
+#: admin/partials/afrsm-pro-add-new-page.php:2704
+#: admin/partials/afrsm-pro-add-new-page.php:2909
+#: admin/partials/afrsm-pro-add-new-page.php:3108
+#: admin/partials/afrsm-pro-add-new-page.php:3318
+#: admin/partials/afrsm-pro-add-new-page.php:3513
+#: admin/partials/afrsm-pro-add-new-page.php:3715
+msgid ""
+"A fixed amount (e.g. 5 / -5) percentage (e.g. 5% / -5%) to add as a fee. "
+"Percentage and minus amount will apply based on cart subtotal."
+msgstr ""
+"Ein fester Betrag (z. B. 5 / -5) Prozent (z. B. 5% / -5%) als Gebühr "
+"hinzuzufügen. Der Prozentsatz und der Minusbetrag gelten basierend auf der "
+"Zwischensumme des Warenkorbs."
+
+#: admin/partials/afrsm-pro-add-new-page.php:1908
+msgid ""
+"A fixed amount (e.g. 5 / -5), percentage (e.g. 5% / -5%) to add as a fee. "
+"Percentage and minus amount will apply based on cart subtotal."
+msgstr ""
+"Ein fester Betrag (z. B. 5 / -5), Prozentsatz (z. B. 5% / -5%) als Gebühr "
+"hinzuzufügen. Der Prozentsatz und der Minusbetrag gelten basierend auf der "
+"Zwischensumme des Warenkorbs."
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:7394
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:7467
+msgid "About Plugin"
+msgstr "Über Plugin"
+
+#: admin/partials/afrsm-pro-list-page.php:259
+msgid "Add New Shipping Method"
+msgstr "Neue Versandart hinzufügen"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:7377
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:7450
+#: admin/partials/form-add-shipping-zone.php:34
+#: admin/partials/html-zone-list.php:25
+msgid "Add Shipping Zone"
+msgstr "Versandzone hinzufügen"
+
+#: admin/partials/form-add-shipping-zone.php:208
+msgid "Add shipping zone"
+msgstr "Add shipping zone"
+
+#: admin/partials/afrsm-premium-version-page.php:26
+msgid "Add specific Product, Category, User role, Country, and more"
+msgstr ""
+"Fügen Sie ein bestimmtes Produkt, eine Kategorie, eine Benutzerrolle, ein "
+"Land und mehr hinzu"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:7389
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:7462
+msgid "Add-On list"
+msgstr "Add-On list"
+
+#: admin/partials/afrsm-premium-version-page.php:195
+#: admin/partials/afrsm-premium-version-page.php:201
+msgid "Addition to product-based shipping method"
+msgstr "Ergänzung zur produktbezogenen Versandart"
+
+#: admin/partials/header/plugin-sidebar.php:55
+#: admin/partials/header/plugin-sidebar.php:88
+msgid "Additional costs for the price, weight, item, cart line item"
+msgstr "Zusätzliche Kosten für Preis, Gewicht, Artikel, Warenkorbposition"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1346
+msgid "Additional Shipping Charges Based on Shipping Class"
+msgstr "Zusätzliche Versandkosten je nach Versandklasse"
+
+#: admin/partials/afrsm-premium-version-page.php:180
+#: admin/partials/afrsm-premium-version-page.php:184
+msgid "Additional shipping charges based on shipping class"
+msgstr "Zusätzliche Versandkosten je nach Versandklasse"
+
+#: admin/partials/afrsm-premium-version-page.php:254
+msgid ""
+"Adjust shipping charges in line with different products in shopping cart, "
+"product quantity or weight per product, with this advanced flat rate "
+"WooCommerce shipping plugin. Make the most of your shipping fees."
+msgstr ""
+"Passen Sie die Versandkosten in Linie mit andere Produkte in den Warenkorb, "
+"Produkt, Menge oder Gewicht pro Produkt, mit dieser fortschrittlichen flat "
+"rate WooCommerce Versand plugin. Machen Sie das beste aus Ihren Versand "
+"Gebühren."
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:865
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:866
+msgid "Advance Shipping Method"
+msgstr "Voraus Versand Methode"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:873
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:874
+msgid "Advance Shipping Zone"
+msgstr "Voraus Versand Zone"
+
+#: admin/partials/afrsm-init-shipping-methods.php:25
+#: admin/partials/afrsm-init-shipping-methods.php:27
+msgid "Advanced Flat Rate Shipping"
+msgstr "Advanced Flat Rate Shipping"
+
+#: admin/partials/afrsm-forceall-shipping-method.php:23
+#: admin/partials/afrsm-forceall-shipping-method.php:65
+msgid "Advanced Flat Rate Shipping (Force All Shipping Methods)"
+msgstr "Advanced Flat Rate Shipping (Kraft, Alle Versand Methoden)"
+
+#: admin/partials/afrsm-premium-version-page.php:21
+msgid "Advanced flexibility for configuring shipping costs"
+msgstr "Erweiterte Flexibilität bei der Konfiguration Versandkosten"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1756
+msgid "Advanced Shipping Price Rules"
+msgstr "Advanced Versand Preis Regeln"
+
+#: admin/partials/afrsm-premium-version-page.php:227
+msgid "Advanced Shipping Price Rules:"
+msgstr "Advanced Shipping Price Regeln:"
+
+#: admin/partials/form-add-shipping-zone.php:73
+#: admin/partials/form-edit-shipping-zone.php:128
+msgid "Africa Country"
+msgstr "Afrika Land"
+
+#: admin/partials/form-add-shipping-zone.php:109
+#: admin/partials/form-edit-shipping-zone.php:161
+msgid "Africa States"
+msgstr "Afrika Staaten"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:495
+#: admin/partials/afrsm-pro-add-new-page.php:1585
+msgid ""
+"After discount. In this case, subtotal amount is $25 – $10(Discount price) = "
+"$15, without discount $25 "
+msgstr ""
+"Nach Rabatt. In diesem Fall, Zwischensummen-Betrag $25 – $10(Ermäßigung) = "
+"$15, ohne Rabatt $25 "
+
+#: admin/partials/afrsm-pro-add-new-page.php:1427
+#: admin/partials/afrsm-pro-add-new-page.php:1862
+#: admin/partials/afrsm-pro-add-new-page.php:2059
+#: admin/partials/afrsm-pro-add-new-page.php:2259
+#: admin/partials/afrsm-pro-add-new-page.php:2456
+#: admin/partials/afrsm-pro-add-new-page.php:2657
+#: admin/partials/afrsm-pro-add-new-page.php:2864
+#: admin/partials/afrsm-pro-add-new-page.php:3063
+#: admin/partials/afrsm-pro-add-new-page.php:3273
+#: admin/partials/afrsm-pro-add-new-page.php:3466
+#: admin/partials/afrsm-pro-add-new-page.php:3670
+#: admin/partials/form-add-shipping-zone.php:71
+#: admin/partials/form-add-shipping-zone.php:107
+#: admin/partials/form-edit-shipping-zone.php:126
+#: admin/partials/form-edit-shipping-zone.php:159
+msgid "All"
+msgstr "Alle"
+
+#: admin/partials/afrsm-premium-version-page.php:74
+msgid ""
+"All the shipping methods are forcefully invoked with shipping charge as "
+"summed up of all shipping methods"
+msgstr ""
+"Alle die Versand Methoden sind mit Nachdruck aufgerufen, mit Versandkosten, "
+"da fasste alle Versand Methoden"
+
+#: admin/partials/afrsm-pro-list-page.php:311
+msgid "Allow customer to choose"
+msgstr "Erlauben es Kunden zu wählen"
+
+#: admin/partials/afrsm-premium-version-page.php:65
+msgid "Allow customer to choose:"
+msgstr "Erlauben es Kunden zu wählen:"
+
+#: admin/partials/afrsm-pro-add-new-page.php:631
+msgid "Allow Free Shipping"
+msgstr "Erlauben, Kostenloser Versand"
+
+#: admin/partials/afrsm-pro-add-new-page.php:682
+msgid "Allow free shipping based on order amount, coupon amount or products ."
+msgstr ""
+"Erlauben, kostenloser Versand basierend auf der Reihenfolge Menge, Gutschein-"
+"Betrag oder Produkten ."
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:444
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:581
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:664
+#: admin/list-tables/class-wc-flat-rate-rule-table.php:39
+#: admin/list-tables/class-wc-flat-rate-rule-table.php:49
+msgid "Amount"
+msgstr "Menge"
+
+#: admin/list-tables/class-wc-shipping-zones-table.php:107
+#: admin/list-tables/class-wc-shipping-zones-table.php:128
+#, php-format
+msgid "and %s others"
+msgstr "und %s andere"
+
+#: admin/partials/form-add-shipping-zone.php:74
+#: admin/partials/form-edit-shipping-zone.php:129
+msgid "Antarctica Country"
+msgstr "Antarktis Land"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1426
+#: admin/partials/afrsm-pro-add-new-page.php:1861
+#: admin/partials/afrsm-pro-add-new-page.php:2058
+#: admin/partials/afrsm-pro-add-new-page.php:2258
+#: admin/partials/afrsm-pro-add-new-page.php:2455
+#: admin/partials/afrsm-pro-add-new-page.php:2656
+#: admin/partials/afrsm-pro-add-new-page.php:2863
+#: admin/partials/afrsm-pro-add-new-page.php:3062
+#: admin/partials/afrsm-pro-add-new-page.php:3272
+#: admin/partials/afrsm-pro-add-new-page.php:3465
+#: admin/partials/afrsm-pro-add-new-page.php:3669
+msgid "Any One"
+msgstr "Beliebigen"
+
+#: admin/partials/afrsm-pro-add-new-page.php:821
+msgid "Apply free shipping amount before coupon code. Default: False."
+msgstr ""
+"Anwenden kostenloser Versand Betrag vor Gutschein-code. Standardwert: False."
+
+#: admin/partials/afrsm-pro-add-new-page.php:812
+msgid "Apply Free shipping rule before coupon discount"
+msgstr "Anwenden Kostenloser Versand Regel, bevor Gutschein-Rabatt"
+
+#: admin/partials/afrsm-pro-list-page.php:312
+msgid "Apply Highest"
+msgstr "Gelten Höchste"
+
+#: admin/partials/afrsm-premium-version-page.php:68
+msgid "Apply Highest:"
+msgstr "Gelten Höchste:"
+
+#: admin/partials/afrsm-pro-add-new-page.php:525
+msgid "Apply Per Quantity"
+msgstr "Gelten Pro Menge"
+
+#: admin/partials/afrsm-pro-list-page.php:313
+msgid "Apply Smallest"
+msgstr "Anwenden Kleinsten"
+
+#: admin/partials/afrsm-premium-version-page.php:71
+msgid "Apply smallest:"
+msgstr "Anwenden kleinsten:"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1160
+msgid "Apply Tax. Default: No"
+msgstr "Gelten Steuer. Default: Nein"
+
+#: admin/partials/afrsm-pro-add-new-page.php:532
+msgid "Apply this fee per quantity of products."
+msgstr "Gelten diese Gebühr pro Menge der Produkte."
+
+#: admin/partials/afrsm-pro-list-page.php:337
+msgid ""
+"Are you want to allow to include default wooCommerce shipping method in "
+"forceall"
+msgstr ""
+"Sind Sie wollen, um zu ermöglichen, umfassen die Standard-wooCommerce-"
+"shipping-Methode in forceall"
+
+#: admin/partials/form-add-shipping-zone.php:75
+#: admin/partials/form-edit-shipping-zone.php:130
+msgid "Asia Country"
+msgstr "Asien Land"
+
+#: admin/partials/form-add-shipping-zone.php:110
+#: admin/partials/form-edit-shipping-zone.php:162
+msgid "Asia States"
+msgstr "Asien States"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:469
+msgid "Attribute Specific"
+msgstr "Spezifisches Attribut"
+
+#: admin/partials/afrsm-pro-shipping-zone-page.php:292
+msgid "Back to zones."
+msgstr "Zurück zu Zonen."
+
+#: admin/partials/afrsm-pro-add-new-page.php:1422
+#: admin/partials/afrsm-pro-add-new-page.php:1857
+#: admin/partials/afrsm-pro-add-new-page.php:2053
+#: admin/partials/afrsm-pro-add-new-page.php:2253
+#: admin/partials/afrsm-pro-add-new-page.php:2451
+#: admin/partials/afrsm-pro-add-new-page.php:2651
+#: admin/partials/afrsm-pro-add-new-page.php:2858
+#: admin/partials/afrsm-pro-add-new-page.php:3057
+#: admin/partials/afrsm-pro-add-new-page.php:3267
+#: admin/partials/afrsm-pro-add-new-page.php:3460
+#: admin/partials/afrsm-pro-add-new-page.php:3664
+msgid "below"
+msgstr "unten"
+
+#: admin/partials/afrsm-premium-version-page.php:223
+#: admin/partials/afrsm-premium-version-page.php:240
+msgid ""
+"Calculate Drill-Down Shipping Costs Easily and Quickly to Improve Business "
+"Profitability"
+msgstr ""
+"Berechnen Sie Drill-Down-Versandkosten Leicht und Schnell zu Verbessern die "
+"Wirtschaftlichkeit"
+
+#: admin/partials/afrsm-pro-add-new-page.php:543
+msgid "Calculate Quantity Based On"
+msgstr "Berechnen Sie Basierend Auf Menge"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1391
+msgid "Calculation type"
+msgstr "Rechenregel"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:361
+msgid "Cart Based"
+msgstr "Warenkorb Basierend"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:110
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:429
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:526
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:606
+msgid "Cart contains category's product"
+msgstr "Warenkorb enthält Produkt-Kategorie"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:109
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:427
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:524
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:604
+msgid "Cart contains product"
+msgstr "Warenkorb enthält Produkt -"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:119
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:432
+msgid "Cart contains product's quantity"
+msgstr "Warenkorb enthält Produkt-Menge"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:126
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:529
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:609
+msgid "Cart contains product's quantity ( In Pro )"
+msgstr "Warenkorb enthält Produkt-Menge ( In Pro )"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:118
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:431
+msgid "Cart contains SKU's product"
+msgstr "Warenkorb enthält Produkt-SKU"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:125
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:528
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:608
+msgid "Cart contains SKU's product ( In Pro )"
+msgstr "Warenkorb enthält SKU Produkt ( In Pro )"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:111
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:430
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:527
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:607
+msgid "Cart contains tag's product"
+msgstr "Warenkorb enthält Produkt Tags"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:117
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:428
+msgid "Cart contains variable product"
+msgstr "Warenkorb enthält variable Produkt"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:124
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:525
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:605
+msgid "Cart contains variable product ( In Pro )"
+msgstr "Warenkorb enthält variable Produkt ( In Pro )"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:456
+#: admin/partials/afrsm-pro-add-new-page.php:3141
+msgid "Cart Qty"
+msgstr "Cart Qty"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:468
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:554
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:637
+msgid "Cart Specific"
+msgstr "Warenkorb Spezifische"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:460
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:568
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:651
+#: admin/partials/afrsm-pro-add-new-page.php:3546
+msgid "Cart Subtotal"
+msgstr "Warenkorb Zwischensumme"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:197
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:436
+msgid "Cart Subtotal (After Discount)"
+msgstr "Warenkorb Zwischensumme (Nach Rabatt)"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:205
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:214
+msgid "Cart Subtotal (After Discount)  ( In Pro )"
+msgstr "Warenkorb Zwischensumme (Nach Rabatt) ( In Pro )"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:533
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:613
+msgid "Cart Subtotal (After Discount) ( In Pro )"
+msgstr "Warenkorb Zwischensumme (Nach Rabatt) ( In Pro )"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:190
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:435
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:532
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:612
+msgid "Cart Subtotal (Before Discount)"
+msgstr "Warenkorb Zwischensumme (Vor Rabatt)"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:198
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:437
+msgid "Cart Subtotal (Product Specific)"
+msgstr "Warenkorb Zwischensumme (Produkt Spezifisch)"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:206
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:215
+msgid "Cart Subtotal (Product Specific)  ( In Pro )"
+msgstr "Warenkorb Zwischensumme (Produkt Spezifisch) ( In Pro )"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:534
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:614
+msgid "Cart Subtotal (Product Specific) ( In Pro )"
+msgstr "Warenkorb Zwischensumme (Produkt Spezifisch) ( In Pro )"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:457
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:565
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:648
+#: admin/partials/afrsm-pro-add-new-page.php:3351
+msgid "Cart Weight"
+msgstr "Wagen Gewicht"
+
+#: admin/partials/afrsm-pro-add-new-page.php:2472
+#: admin/partials/afrsm-pro-add-new-page.php:2880
+msgid "Category"
+msgstr "Kategorie"
+
+#: admin/partials/afrsm-pro-add-new-page.php:2620
+#: admin/partials/afrsm-pro-add-new-page.php:2673
+#: admin/partials/afrsm-pro-add-new-page.php:2676
+msgid "Category Subtotal"
+msgstr "Kategorie Zwischensumme"
+
+#: woocommerce/cart/cart-shipping.php:139
+msgid "Change address"
+msgstr "Adresse ändern"
+
+#: admin/partials/afrsm-pro-add-new-page.php:850
+msgid "Change the notice message"
+msgstr "Ändern Sie die Benachrichtigung Nachricht"
+
+#: admin/partials/afrsm-pro-add-new-page.php:857
+msgid ""
+"Change the notice message. Use {LEFT_PRICE_VALUE} to get a dynamic price "
+"value."
+msgstr ""
+"Ändern Sie die Benachrichtigungsnachricht. Verwenden Sie {LEFT_PRICE_VALUE}, "
+"um einen dynamischen Preiswert zu erhalten."
+
+#: admin/partials/header/plugin-sidebar.php:155
+msgid "Changelog"
+msgstr "Änderungsprotokoll"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:470
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:555
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:638
+msgid "Checkout Specific"
+msgstr "Checkout Spezifische"
+
+#: admin/partials/form-add-shipping-zone.php:62
+#: admin/partials/form-add-shipping-zone.php:131
+#: admin/partials/form-add-shipping-zone.php:172
+#: admin/partials/form-edit-shipping-zone.php:117
+#: admin/partials/form-edit-shipping-zone.php:179
+#: admin/partials/form-edit-shipping-zone.php:228
+msgid "Choose countries&hellip;"
+msgstr "Choose countries&hellip;"
+
+#: admin/partials/form-add-shipping-zone.php:92
+#: admin/partials/form-edit-shipping-zone.php:144
+msgid "Choose states/counties&hellip;"
+msgstr "Bundesländer/Landkreise auswählen&hellip;"
+
+#: admin/partials/form-add-shipping-zone.php:147
+msgid "Cites"
+msgstr "Cites"
+
+#: admin/partials/form-edit-shipping-zone.php:196
+msgid "Cities"
+msgstr "Städte"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:74
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:424
+msgid "City"
+msgstr "Stadt"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:82
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:91
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:521
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:601
+msgid "City ( In Pro )"
+msgstr "Stadt ( In Pro )"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:484
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:560
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:643
+#: admin/partials/afrsm-pro-add-new-page.php:1525
+#: admin/partials/afrsm-pro-add-new-page.php:1543
+#: admin/partials/afrsm-pro-add-new-page.php:1557
+#: admin/partials/afrsm-pro-add-new-page.php:1570
+#: admin/partials/afrsm-pro-add-new-page.php:1587
+#: admin/partials/afrsm-pro-add-new-page.php:1596
+#: admin/partials/afrsm-pro-add-new-page.php:1610
+#: admin/partials/afrsm-pro-add-new-page.php:1623
+msgid "Click Here"
+msgstr "Klicken Sie Hier"
+
+#: admin/partials/afrsm-pro-information-page.php:31
+msgid "Click here"
+msgstr "Klicken Sie hier"
+
+#: admin/partials/header/plugin-sidebar.php:136
+msgid "Click here »"
+msgstr "Klicken Sie hier »"
+
+#: advanced-flat-rate-shipping-for-woocommerce.php:321
+msgid ""
+"Click on settings button and create your shipping method with multiple rules"
+msgstr ""
+"Klicken Sie auf die Schaltfläche Einstellungen, und erstellen Sie Ihre "
+"Versand Methode mit mehreren Regeln"
+
+#: admin/partials/afrsm-pro-list-page.php:343
+msgid "Combine all shipping"
+msgstr "Kombiniere alle Verschiffen"
+
+#: admin/partials/afrsm-pro-list-page.php:341
+msgid ""
+"Combine both shipping method. (Default WooCommerce and Our plugin's shipping "
+"method.)"
+msgstr ""
+"Kombinieren Verschiffen Methode. (Default WooCommerce und plugins Versand "
+"Methode.)"
+
+#: public/class-advanced-flat-rate-shipping-for-woocommerce-public.php:604
+#: public/class-advanced-flat-rate-shipping-for-woocommerce-public.php:622
+msgid "Combine Shipping"
+msgstr "Kombinieren Versand"
+
+#: admin/partials/header/plugin-sidebar.php:186
+#: admin/partials/header/plugin-sidebar.php:188
+msgid "Conditional Discount Rules For WooCommerce Checkout"
+msgstr "Bedingte Rabatt-Regeln Für WooCommerce Checkout"
+
+#: admin/partials/header/plugin-sidebar.php:54
+#: admin/partials/header/plugin-sidebar.php:87
+msgid "Conditional Payments based on Shipping"
+msgstr "Bedingte Zahlungen auf der Grundlage Versand"
+
+#: admin/partials/header/plugin-sidebar.php:174
+msgid "Conditional Product Fees For WooCommerce Checkout"
+msgstr "Bedingte Produktgebühren für WooCommerce Checkout"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:7426
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:7504
+msgid "Contact Support"
+msgstr "Support Kontaktieren"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:328
+#: admin/partials/afrsm-pro-add-new-page.php:2415
+#: admin/partials/afrsm-pro-add-new-page.php:2425
+msgid "Cost on Category"
+msgstr "Kosten-Kategorie"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:329
+#: admin/partials/afrsm-pro-add-new-page.php:2616
+#: admin/partials/afrsm-pro-add-new-page.php:2624
+msgid "Cost on Category Subtotal"
+msgstr "Kosten für Kategorie-Teilsumme"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:330
+#: admin/partials/afrsm-pro-add-new-page.php:2820
+#: admin/partials/afrsm-pro-add-new-page.php:2831
+msgid "Cost on Category Weight"
+msgstr "Kosten auf Gewicht Kategorie"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:325
+#: admin/partials/afrsm-pro-add-new-page.php:1831
+msgid "Cost on Product"
+msgstr "Kosten auf Produkt"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:326
+#: admin/partials/afrsm-pro-add-new-page.php:2018
+#: admin/partials/afrsm-pro-add-new-page.php:2026
+msgid "Cost on Product Subtotal"
+msgstr "Kosten auf Produkt-Teilsumme"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:327
+#: admin/partials/afrsm-pro-add-new-page.php:2220
+#: admin/partials/afrsm-pro-add-new-page.php:2226
+msgid "Cost on Product Weight"
+msgstr "Kosten auf Produkt Gewicht"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:334
+#: admin/partials/afrsm-pro-add-new-page.php:3627
+#: admin/partials/afrsm-pro-add-new-page.php:3637
+msgid "Cost on Shipping Class Subtotal"
+msgstr "Kosten auf Verschiffen Class Zwischensumme"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:331
+#: admin/partials/afrsm-pro-add-new-page.php:3022
+#: admin/partials/afrsm-pro-add-new-page.php:3030
+msgid "Cost on Total Cart Qty"
+msgstr "Kosten auf Insgesamt Cart Qty"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:333
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:339
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:345
+#: admin/partials/afrsm-pro-add-new-page.php:3425
+#: admin/partials/afrsm-pro-add-new-page.php:3433
+msgid "Cost on Total Cart Subtotal"
+msgstr "Kosten auf Insgesamt Warenkorb Zwischensumme"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:332
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:338
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:344
+#: admin/partials/afrsm-pro-add-new-page.php:3232
+#: admin/partials/afrsm-pro-add-new-page.php:3240
+msgid "Cost on Total Cart Weight"
+msgstr "Kosten auf Insgesamt Cart Gewicht"
+
+#: admin/partials/afrsm-pro-shipping-zone-page.php:118
+msgid "Could not save zone. Please try again."
+msgstr "Konnte nicht speichern-zone. Bitte versuchen Sie es erneut."
+
+#: admin/list-tables/class-wc-shipping-zones-table.php:176
+msgid "Countries"
+msgstr "Länder"
+
+#: admin/list-tables/class-wc-shipping-zones-table.php:178
+msgid "Countries and states"
+msgstr "Länder und Staaten"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:72
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:80
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:89
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:422
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:519
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:599
+msgid "Country"
+msgstr "Land"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:200
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:440
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:617
+msgid "Coupon"
+msgstr "Coupon"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:208
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:217
+msgid "Coupon  ( In Pro )"
+msgstr "Kupon ( In Pro )"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:537
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:620
+msgid "Coupon ( In Pro )"
+msgstr "Kupon ( In Pro )"
+
+#: admin/partials/afrsm-premium-version-page.php:209
+msgid "Cover All Handling Charges"
+msgstr "Alle Bearbeitungsgebühren abdecken"
+
+#: admin/partials/afrsm-premium-version-page.php:213
+msgid "Cover All Handling Charges – Don’t Lose Money on Shipping"
+msgstr "Decken Alle Bearbeitungsgebühren nicht Verlieren Geld auf Verschiffen"
+
+#: admin/partials/afrsm-premium-version-page.php:30
+msgid "Create fixed shipping methods for geographical locations"
+msgstr "Erstellen Sie Feste Versandmethoden für geografische Standorte"
+
+#: admin/partials/afrsm-premium-version-page.php:22
+msgid "Create multiple flat rate shipping methods"
+msgstr "Erstellen Sie mehrere flache rate Verschiffen Methoden"
+
+#: admin/partials/afrsm-premium-version-page.php:29
+msgid "Create shipping zones for easy order management"
+msgstr "Erstellen der Versand-Zonen für easy-order-management"
+
+#: admin/partials/afrsm-pro-get-started-page.php:20
+msgid "Create/manage multiple shipping rules as per your needs."
+msgstr ""
+"Erstellen/verwalten Sie mehrere Verschiffen Regeln, wie pro Ihre "
+"Anforderungen."
+
+#: admin/partials/header/plugin-sidebar.php:50
+#: admin/partials/header/plugin-sidebar.php:83
+msgid "Custom flat rate shipping"
+msgstr "Benutzerdefinierte flache rate Verschiffen"
+
+#: admin/list-tables/class-wc-flat-rate-rule-table.php:42
+#: admin/list-tables/class-wc-flat-rate-rule-table.php:52
+msgid "Date"
+msgstr "Datum"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1244
+msgid "Days of the Week"
+msgstr "Tage der Woche"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1132
+msgid "Default selected shipping?"
+msgstr "Standardmäßig gewählten Versandart?"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:455
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:548
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:631
+#: admin/list-tables/class-wc-flat-rate-rule-table.php:284
+#: admin/list-tables/class-wc-flat-rate-rule-table.php:381
+#: admin/list-tables/class-wc-shipping-zones-table.php:57
+#: admin/list-tables/class-wc-shipping-zones-table.php:236
+msgid "Delete"
+msgstr "Löschen"
+
+#: admin/partials/afrsm-premium-version-page.php:248
+#: admin/partials/afrsm-premium-version-page.php:252
+msgid "Deploy Minute Detailing in Your Shipping Costs"
+msgstr "Bereitstellen Minute Details in Ihrem Versandkosten"
+
+#: admin/partials/afrsm-premium-version-page.php:25
+msgid "Deploy shipping in a more strategic manner"
+msgstr "Bereitstellen Versand in weitere strategische Art und Weise"
+
+#: admin/list-tables/class-wc-flat-rate-rule-table.php:379
+#: admin/list-tables/class-wc-shipping-zones-table.php:234
+msgid "Disable"
+msgstr "Deaktivieren"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1122
+msgid "Display shipping method only for logged in users. Default: No"
+msgstr ""
+"Anzeige der Versand Methode nur für angemeldete Benutzer. Default: Nein"
+
+#: admin/partials/afrsm-pro-list-page.php:328
+msgid "Display shipping methods in a dropdown"
+msgstr "Anzeige der Versand-Methoden, die in einem dropdown"
+
+#: admin/partials/afrsm-pro-list-page.php:327
+msgid "Display shipping methods with radio buttons"
+msgstr "Anzeige Verschiffen Methoden, mit radio-buttons"
+
+#: admin/partials/afrsm-pro-add-new-page.php:831
+#: admin/partials/afrsm-pro-add-new-page.php:840
+msgid "Display the notice with the amount of price left to free shipping"
+msgstr ""
+"Display die Anzeige für die Höhe des Preises Links zu kostenloser Versand"
+
+#: admin/partials/class-wc-extra-flat-eval-math.php:293
+msgid "division by zero"
+msgstr "division durch null"
+
+#: admin/partials/header/plugin-sidebar.php:147
+msgid "Do you have any feedback & feature requests?"
+msgstr "Haben Sie alle feedback und feature-Wünsche?"
+
+#: includes/class-advanced-flat-rate-shipping-for-woocommerce.php:299
+msgid "Docs"
+msgstr "Docs"
+
+#: admin/partials/header/plugin-header.php:57
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:7411
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:7489
+msgid "Dotstore"
+msgstr "Dotstore"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:687
+msgid "DotStore Plugins"
+msgstr "DotStore Plugins"
+
+#: admin/list-tables/class-wc-flat-rate-rule-table.php:285
+msgid "Duplicate"
+msgstr "Duplikat"
+
+#: admin/partials/afrsm-premium-version-page.php:256
+msgid "E.g."
+msgstr "E. g."
+
+#: admin/partials/afrsm-pro-add-new-page.php:976
+msgid "Each Quantity Rule"
+msgstr "Jede Menge Regel -"
+
+#: admin/partials/afrsm-pro-add-new-page.php:892
+msgid "Each Weight Rule"
+msgstr "Jedes Gewicht Regel"
+
+#: admin/list-tables/class-wc-flat-rate-rule-table.php:283
+#: admin/list-tables/class-wc-shipping-zones-table.php:54
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: admin/partials/form-edit-shipping-zone.php:77
+msgid "Edit Shipping Zone"
+msgstr "Bearbeiten Versand-Zone"
+
+#: admin/list-tables/class-wc-flat-rate-rule-table.php:380
+#: admin/list-tables/class-wc-shipping-zones-table.php:235
+#: admin/partials/form-edit-shipping-zone.php:95
+msgid "Enable"
+msgstr "Aktivieren"
+
+#: admin/partials/afrsm-pro-add-new-page.php:987
+msgid ""
+"Enable or disable each quantity base shipping. <strong>Default: "
+"False</strong><br>\n"
+"\t\t\t\t\t\t\t\t\t\t\tApply additional rule per quantity in cart page.<br>\n"
+"\t\t\t\t\t\t\t\t\t\t\t<strong>Ex:</strong> 10 amount charges per 2 QTY over "
+"10 QTY<br>\n"
+"\t\t\t\t\t\t\t\t\t\t\tIn this rule Per each 2 QTY add charges of the amount "
+"of 10. But it will be apply over the 10 QTY in cart.\n"
+"\t\t\t\t\t\t\t\t\t\t\t&nbsp;&nbsp;&nbsp;\n"
+"\t\t\t\t\t\t\t\t\t\t\t<span class=\"dashicons dashicons-info-outline\">"
+"</span>\n"
+"\t\t\t\t\t\t\t\t\t\t\t<a href=\"https://docs.thedotstore.com/article/402-"
+"advanced-quantity-based-shipping-rules\" target=\"_blank\">View "
+"Documentation</a>\n"
+"\t\t\t\t\t\t\t\t\t\t\t<br>"
+msgstr ""
+"Aktivieren oder deaktivieren Sie den Versand jeder Mengenbasis. <strong>"
+"Standard: Falsch</strong><br>\n"
+"Wenden Sie eine zusätzliche Regel pro Menge auf der Warenkorbseite an.<br>\n"
+"<strong>Beispiel:</strong> Gebühren von 10 Beträgen pro 2 QTY über 10 QTY<br>"
+"\n"
+"In dieser Regel werden pro 2 QTY Gebühren in Höhe von 10 hinzugefügt. Sie "
+"gelten jedoch für die 10 QTY im Warenkorb.\n"
+"&nbsp;&nbsp;&nbsp;\n"
+"<span class=\"dashicons dashicons-info-outline\"></span>\n"
+"<a href=\"https://docs.thedotstore.com/article/402-advanced-quantity-based-"
+"shipping-rules\" target=\"_blank\">Dokumentation anzeigen</a>\n"
+"<br>"
+
+#: admin/partials/afrsm-pro-add-new-page.php:643
+msgid ""
+"Enable or disable free shipping. Default: False.\n"
+"\t\t\t\t\t\t\t\t\t&nbsp;&nbsp;&nbsp;<span class=\"dashicons dashicons-info-"
+"outline\"></span>\n"
+"\t\t\t\t\t\t\t\t\t<a href=\"https://docs.thedotstore.com/article/403-"
+"advanced-free-shipping-rules\" target=\"_blank\">View Documentation</a><br>"
+msgstr ""
+"Aktivieren oder deaktivieren Sie den kostenlosen Versand. Standard: Falsch.\n"
+"&nbsp;&nbsp;&nbsp;<span class=\"dashicons dashicons-info-outline\"></span>\n"
+"<a href=\"https://docs.thedotstore.com/article/403-advanced-free-shipping-"
+"rules\" target=\"_blank\">Dokumentation anzeigen</a><br>"
+
+#: admin/partials/afrsm-pro-add-new-page.php:450
+msgid ""
+"Enable or Disable this shipping method using this button (This method will "
+"be visible to customers only if it is enabled)."
+msgstr ""
+"Aktivieren oder Deaktivieren Sie diese Versand Methode mit dieser Taste "
+"(Diese Methode wird für Kunden sichtbar, nur wenn es aktiviert ist)."
+
+#: admin/partials/afrsm-pro-add-new-page.php:903
+msgid ""
+"Enable or disable weight base shipping. <strong>Default: False</strong><br>\n"
+"\t\t\t\t\t\t\t\t\t\t\tApply additional rule per weight in cart page.<br>\n"
+"\t\t\t\t\t\t\t\t\t\t\t<strong>Ex:</strong> 10 amount charges per 2 KG over "
+"10KG<br>\n"
+"\t\t\t\t\t\t\t\t\t\t\tIn this rule Per each 2KG add charges of the amount of "
+"10. But it will be apply over the 10KG in cart.\n"
+"\t\t\t\t\t\t\t\t\t\t\t&nbsp;&nbsp;&nbsp;\n"
+"\t\t\t\t\t\t\t\t\t\t\t<span class=\"dashicons dashicons-info-outline\">"
+"</span>\n"
+"\t\t\t\t\t\t\t\t\t\t\t<a href=\"https://docs.thedotstore.com/article/401-"
+"advanced-weight-based-shipping-rules\" target=\"_blank\">View "
+"Documentation</a>\n"
+"\t\t\t\t\t\t\t\t\t\t\t<br>"
+msgstr ""
+"Aktivieren oder deaktivieren Sie den Versand auf Gewichtsbasis. <strong>"
+"Standard: Falsch</strong><br>\n"
+"Wenden Sie eine zusätzliche Regel pro Gewicht auf der Warenkorbseite an.<br>"
+"\n"
+"<strong>Beispiel:</strong> Gebühren in Höhe von 10 Beträgen pro 2 kg über "
+"10 kg<br>\n"
+"In dieser Regel werden pro 2 kg Gebühren in Höhe von 10 hinzugefügt. Sie "
+"gelten jedoch für die 10 kg im Warenkorb.\n"
+"&nbsp;&nbsp;&nbsp;\n"
+"<span class=\"dashicons dashicons-info-outline\"></span>\n"
+"<a href=\"https://docs.thedotstore.com/article/401-advanced-weight-based-"
+"shipping-rules\" target=\"_blank\">Dokumentation anzeigen</a>\n"
+"<br>"
+
+#: admin/partials/form-edit-shipping-zone.php:99
+msgid "Enable this zone"
+msgstr "Aktivieren Sie diese zone"
+
+#: admin/list-tables/class-wc-shipping-zones-table.php:225
+msgid "Enabled"
+msgstr "Aktiviert"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1218
+msgid "End Date"
+msgstr "Enddatum"
+
+#: admin/partials/afrsm-pro-information-page.php:54
+msgid "English, German"
+msgstr "Englisch, Deutsch"
+
+#: woocommerce/cart/cart-shipping.php:158
+msgid "Enter a different address"
+msgstr "Geben Sie eine andere Adresse"
+
+#: woocommerce/cart/cart-shipping.php:151
+msgid "Enter your address to view shipping options."
+msgstr "Geben Sie Ihre Adresse ein, um Versand Optionen."
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:282
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:445
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:540
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:623
+#: admin/partials/afrsm-pro-add-new-page.php:410
+#: admin/partials/afrsm-pro-add-new-page.php:418
+msgid "Equal to ( = )"
+msgstr "Gleich ( = )"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:5966
+msgid "Error saving shipping method."
+msgstr "Fehler beim speichern der Verschiffen Methode."
+
+#: admin/partials/afrsm-pro-shipping-zone-page.php:285
+msgid "Error saving zone."
+msgstr "Fehler beim speichern der zone."
+
+#: admin/partials/afrsm-pro-add-new-page.php:1172
+msgid "Estimated Delivery Time"
+msgstr "Geschätzte Lieferzeit"
+
+#: admin/partials/form-add-shipping-zone.php:76
+#: admin/partials/form-add-shipping-zone.php:111
+#: admin/partials/form-edit-shipping-zone.php:131
+#: admin/partials/form-edit-shipping-zone.php:163
+msgid "EU States"
+msgstr "EU-Staaten"
+
+#: admin/list-tables/class-wc-flat-rate-rule-table.php:333
+#: admin/list-tables/class-wc-flat-rate-rule-table.php:364
+#: admin/list-tables/class-wc-shipping-zones-table.php:86
+msgid "Everywhere"
+msgstr "Überall"
+
+#: admin/partials/header/plugin-sidebar.php:63
+#: admin/partials/header/plugin-sidebar.php:96
+msgid "EXCLUSIVE LIFETIME OFFER"
+msgstr "EXKLUSIVE LEBENSDAUER BIETEN"
+
+#: admin/partials/class-wc-extra-flat-eval-math.php:247
+msgid "expecting ')'"
+msgstr "erwartet ')'"
+
+#: admin/partials/afrsm-import-export-setting.php:31
+#: admin/partials/afrsm-import-export-setting.php:78
+msgid "Export"
+msgstr "Export"
+
+#: admin/partials/afrsm-import-export-setting.php:73
+msgid "Export Shipping Method Data"
+msgstr "Export-Versand-Methode Daten"
+
+#: admin/partials/afrsm-import-export-setting.php:82
+msgid ""
+"Export the shipping method settings for this site as a .json file. This "
+"allows you to easily import the configuration into another site. Please make "
+"sure simple product and variation products slugs must be unique."
+msgstr ""
+"Exportieren Sie die Versandart-Einstellungen für diese Website als .json-"
+"Datei. Diese können Sie ganz einfach importieren Sie die Konfiguration in "
+"eine andere Website. Bitte stellen Sie sicher, dass die Produkte einfach und "
+"variation der Produkte, die Schnecken müssen eindeutig sein."
+
+#: admin/partials/afrsm-import-export-setting.php:35
+msgid ""
+"Export the zone settings for this site as a .json file. This allows you to "
+"easily import the configuration into another site."
+msgstr ""
+"Exportieren Sie die zone-Einstellungen für diese Website als .json-Datei. "
+"Diese können Sie ganz einfach importieren Sie die Konfiguration in eine "
+"andere Website."
+
+#: admin/partials/afrsm-import-export-setting.php:26
+msgid "Export Zone Data"
+msgstr "Export Zone Daten"
+
+#: admin/partials/header/plugin-sidebar.php:176
+msgid "Extra Fees Plugin for WooCommerce"
+msgstr "Zusätzliche Gebühren Plugin für WooCommerce"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1904
+#: admin/partials/afrsm-pro-add-new-page.php:2101
+#: admin/partials/afrsm-pro-add-new-page.php:2301
+#: admin/partials/afrsm-pro-add-new-page.php:2496
+#: admin/partials/afrsm-pro-add-new-page.php:2699
+#: admin/partials/afrsm-pro-add-new-page.php:2904
+#: admin/partials/afrsm-pro-add-new-page.php:3103
+#: admin/partials/afrsm-pro-add-new-page.php:3313
+#: admin/partials/afrsm-pro-add-new-page.php:3508
+#: admin/partials/afrsm-pro-add-new-page.php:3710
+msgid "Fee Amount"
+msgstr "Gebühr Betrag"
+
+#: admin/partials/html-zone-list.php:18
+msgid "Fetch Your Old Shipping Zone"
+msgstr "Holen Sie Ihren Alten Shipping Zone"
+
+#: admin/partials/header/plugin-sidebar.php:226
+msgid "Five Star Support"
+msgstr "Fünf-Sterne-Unterstützung"
+
+#: admin/partials/afrsm-premium-version-page.php:157
+msgid ""
+"For example, if you have created shipping method like quantity >= 5. When "
+"total quantity of cart is greater than 5 then shipping method is visible."
+msgstr ""
+"Wenn Sie beispielsweise eine Versandart wie Menge >= 5 erstellt haben, ist "
+"die Versandart sichtbar, wenn die Gesamtmenge des Warenkorbs größer als 5 "
+"ist."
+
+#: admin/partials/afrsm-premium-version-page.php:168
+msgid ""
+"For example, if you have created shipping method like weight != 5. When "
+"total weight of cart is not equal to 5 then shipping method is visible."
+msgstr ""
+"Zum Beispiel, wenn Sie haben erstellt Verschiffen Methode wie Gewicht != 5. "
+"Wenn insgesamt Gewicht der Wagen ist nicht gleich 5 ist, dann Versand "
+"Methode ist sichtbar."
+
+#: admin/partials/afrsm-premium-version-page.php:107
+msgid ""
+"For example, you can create \"SKU based shipping\" for $12. This method "
+"should be visible when the cart has any product having \"woo-single1\" SKU."
+msgstr ""
+"Für Beispiel, Sie können erstellen \"SKU basierend Versand für die $12. "
+"Diese Methode sollte sichtbar sein, wenn der Wagen hat jedes Produkt mit "
+"\"woo-single1\" SKU."
+
+#: admin/partials/afrsm-premium-version-page.php:96
+msgid ""
+"For example, you can create \"Tag-based shipping\" for $10. This method "
+"should be visible when the cart has any product having \"Tag1\" tag."
+msgstr ""
+"Für Beispiel, Sie können erstellen \"Tag-basierten Versand\" für $10. Diese "
+"Methode sollte sichtbar sein, wenn der Wagen hat jedes Produkt mit \"Tag1\" "
+"tag."
+
+#: admin/partials/afrsm-premium-version-page.php:138
+msgid ""
+"For example, you have created shipping method for \"Editor\" role. Now, when "
+"any user with role \"Editor\" is logged in and place an order then this "
+"shipping method is visible."
+msgstr ""
+"Für Beispiel, die Sie erstellt haben Versand Methode für \"Editor\" - Rolle. "
+"Jetzt, wenn ein Benutzer mit der Rolle \"Editor\" angemeldet ist und eine "
+"Bestellung aufgeben, dann diese Versandart ist sichtbar."
+
+#: admin/partials/afrsm-premium-version-page.php:127
+msgid ""
+"For example, you have created shipping method for \"John\" user with $18 "
+"charge. When John is logged in and place some order then for all the orders "
+"shipping method would be displayed."
+msgstr ""
+"Für Beispiel, die Sie erstellt haben Versand Methode für \"John\" Benutzer "
+"mit $18 Gebühr. Als John angemeldet ist, und etwas, um dann für alle "
+"Aufträge Verschiffen Methode angezeigt werden würde."
+
+#: admin/partials/afrsm-pro-list-page.php:314
+msgid "Force all shipping methods"
+msgstr "Zwingen, alle Versand Methoden"
+
+#: admin/partials/afrsm-premium-version-page.php:74
+msgid "Force all:"
+msgstr "Kraft:"
+
+#: admin/partials/afrsm-init-shipping-methods.php:651
+msgid "Forceall"
+msgstr "Forceall"
+
+#: admin/partials/afrsm-pro-list-page.php:348
+msgid "Forceall Label"
+msgstr "Forceall-Label"
+
+#: admin/partials/afrsm-pro-add-new-page.php:744
+msgid "Free Shipping - Label"
+msgstr "Kostenloser Versand - Label"
+
+#: admin/partials/afrsm-pro-add-new-page.php:694
+msgid "Free Shipping - Product"
+msgstr "Kostenloser Versand - Produkt"
+
+#: admin/partials/afrsm-pro-add-new-page.php:660
+msgid "Free Shipping based on"
+msgstr "Kostenloser Versand basierend auf"
+
+#: admin/partials/afrsm-pro-add-new-page.php:871
+msgid "Free Shipping Coupon - Amount"
+msgstr "Kostenloser Versand Coupon - Betrag"
+
+#: admin/partials/afrsm-pro-add-new-page.php:665
+msgid "Free Shipping on Coupon"
+msgstr "Versandkostenfrei Gutschein"
+
+#: admin/partials/afrsm-pro-add-new-page.php:669
+msgid "Free Shipping on Product"
+msgstr "Kostenloser Versand auf Produkt"
+
+#: admin/partials/afrsm-pro-add-new-page.php:672
+#: admin/partials/afrsm-pro-add-new-page.php:676
+msgid "Free Shipping on Product ( In Pro )"
+msgstr "Free Shipping on Produkt ( In Pro )"
+
+#: admin/partials/afrsm-pro-add-new-page.php:789
+msgid "Free Shipping Order - Amount"
+msgstr "Kostenloser Versand Bestell - Menge"
+
+#: admin/partials/header/plugin-sidebar.php:132
+msgid "Free vs Pro Feature"
+msgstr "Kostenlose vs. Pro-Funktion"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1254
+msgid "Friday"
+msgstr "Freitag"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1292
+msgid "From:"
+msgstr "Aus:"
+
+#: admin/partials/afrsm-premium-version-page.php:19
+msgid ""
+"Full-featured and Highly Flexible Shipping plugin for creating different "
+"shipping methods with different shipping rules and maximize earnings from "
+"the shipping methods on offer."
+msgstr ""
+"Voll ausgestattete und Hoch Flexible Versand-plugin für die Erstellung von "
+"verschiedenen Versand Methoden mit verschiedenen Verschiffen Regeln und "
+"maximieren Sie das Ergebnis von der Versand Methoden auf bieten."
+
+#: admin/partials/header/plugin-header.php:37
+msgid ""
+"Full-featured and Highly Flexible Shipping plugin for creating different "
+"shipping methods with different shipping rules."
+msgstr ""
+"Voll ausgestattete und Hoch Flexible Versand-plugin für die Erstellung von "
+"verschiedenen Versand Methoden mit verschiedenen Verschiffen Regeln."
+
+#: admin/partials/afrsm-premium-version-page.php:278
+msgid "GET FLAT RATE SHIPPING PLUGIN PRO"
+msgstr "GET FLAT RATE SHIPPING PLUGIN PRO"
+
+#: admin/partials/header/plugin-sidebar.php:58
+#: admin/partials/header/plugin-sidebar.php:91
+msgid "Get Flat Rate Shipping Premium »"
+msgstr "Get Flat Rate Shipping Premium »"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:7399
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:7472
+#: admin/partials/afrsm-pro-get-started-page.php:17
+msgid "Getting Started"
+msgstr "Erste Schritte"
+
+#: admin/partials/form-add-shipping-zone.php:31
+#: admin/partials/form-edit-shipping-zone.php:74
+msgid "Go to Shipping Zone"
+msgstr "Gehen Sie zu Versandkosten Zone"
+
+#: admin/partials/header/plugin-sidebar.php:229
+msgid ""
+"Got a question? Get in touch with theDotstore developers. We are happy to "
+"help! "
+msgstr ""
+"Haben Sie eine Frage? Get in touch mit theDotstore Entwickler. Wir sind "
+"glücklich zu helfen! "
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:305
+#: admin/partials/afrsm-pro-add-new-page.php:413
+msgid "Greater or Equal to ( >= )"
+msgstr "Größer oder gleich ( >= )"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:450
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:544
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:627
+msgid "greater or Equal to ( >= )"
+msgstr "größer oder gleich ( >= )"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:306
+#: admin/partials/afrsm-pro-add-new-page.php:414
+msgid "Greater than ( > )"
+msgstr "Größer als ( > )"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:451
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:545
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:628
+msgid "greater then ( > )"
+msgstr "größer als ( > )"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:5005
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:5006
+msgid "Guest"
+msgstr "Gast"
+
+#: admin/partials/afrsm-pro-information-page.php:44
+msgid "Guide Documentation"
+msgstr "Guide-Dokumentation"
+
+#: admin/partials/afrsm-pro-information-page.php:37
+msgid "Help & Support"
+msgstr "Hilfe & Support"
+
+#: admin/partials/header/plugin-sidebar.php:135
+msgid ""
+"Here’s an at a glance view of the main differences between Premium and free "
+"plugin features."
+msgstr ""
+"Hier ist eine auf einem Blick die wichtigsten Unterschiede zwischen Premium-"
+"und gratis-Plug-in Funktionen."
+
+#: admin/partials/afrsm-pro-list-page.php:355
+msgid "Hide other shipping method when free shipping is available"
+msgstr ""
+"Verstecken Sie andere Versand Methode, wenn freies Verschiffen ist verfügbar"
+
+#: admin/partials/header/plugin-sidebar.php:180
+#: admin/partials/header/plugin-sidebar.php:182
+msgid "Hide Shipping Method For WooCommerce"
+msgstr "Ausblenden Versand Methode Für WooCommerce"
+
+#: admin/partials/afrsm-premium-version-page.php:259
+msgid "If customer has 1 T-Shirt in cart = Shipping charge $5"
+msgstr "Wenn der Kunde 1 T-Shirt in den Warenkorb = Versand Gebühr $5"
+
+#: admin/partials/afrsm-premium-version-page.php:260
+msgid ""
+"If customer has 2 T-Shits in cart = Shipping charge $ 10 ($5 basic shipping "
+"fee + $5 for extra quantity)"
+msgstr ""
+"Wenn der Kunde 2 T-Scheißt im Warenkorb = Versand kostenlos $ 10 ($5 basic "
+"shipping fee + $5 für zusätzlichen Menge)"
+
+#: admin/partials/afrsm-premium-version-page.php:261
+msgid ""
+"If customer has 3 T-Shirts in cart = Shipping charge $ 15 ($10 basic "
+"shipping fee + $5 for extra quantity)"
+msgstr ""
+"Wenn die Kunden hat 3 T-Shirts im Warenkorb = Versand Gebühr $ 15 ($10 basic "
+"shipping fee + $5 für zusätzlichen Menge)"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1765
+msgid ""
+"If enabled this Advanced Pricing button only than below all rule's will go "
+"for apply to shipping method."
+msgstr ""
+"Wenn diese Einstellung aktiviert Advanced Pricing-button nur als unter aller "
+"Regel gehen für die gelten für Versand Methode."
+
+#: admin/partials/afrsm-pro-add-new-page.php:1981
+#: admin/partials/afrsm-pro-add-new-page.php:2182
+#: admin/partials/afrsm-pro-add-new-page.php:2377
+#: admin/partials/afrsm-pro-add-new-page.php:2577
+#: admin/partials/afrsm-pro-add-new-page.php:2781
+#: admin/partials/afrsm-pro-add-new-page.php:2982
+#: admin/partials/afrsm-pro-add-new-page.php:3177
+#: admin/partials/afrsm-pro-add-new-page.php:3385
+#: admin/partials/afrsm-pro-add-new-page.php:3584
+#: admin/partials/afrsm-pro-add-new-page.php:3791
+msgid ""
+"If entered fee amount is less than cart subtotal it will reflect with minus "
+"sign (EX: $ -10.00) OR If entered fee amount is more than cart subtotal then "
+"the total amount shown as zero (EX: Total: 0): "
+msgstr ""
+"Wenn eingegeben Gebühr, die Menge ist weniger als cart-subtotal-es spiegelt "
+"mit minus sign (EX: $ -10.00) ODER Wenn eingegeben Gebühr, die Menge ist "
+"mehr als cart-subtotal-dann ist der gesamte Betrag als null (EX: Insgesamt: "
+"0): "
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:480
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:579
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:662
+msgid ""
+"If you active Apply Per Quantity option then Advance Pricing Rule will be "
+"disable and not working."
+msgstr ""
+"Wenn Sie aktiv Gelten Pro Stückzahl option dann Voraus, die Preisgestaltung "
+"der Regel wird deaktiviert und arbeitet nicht."
+
+#: admin/partials/afrsm-pro-add-new-page.php:537
+msgid ""
+"If you active this option then Advance Pricing Rule will be disable and not "
+"working."
+msgstr ""
+"Wenn Sie diese option aktivieren dann Voraus, die Preisgestaltung der Regel "
+"wird deaktiviert und arbeitet nicht."
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:5993
+#, php-format
+msgid ""
+"If you like <strong>Advanced Flat Rate Shipping For WooCommerce</strong> "
+"plugin, please leave us &#9733;&#9733;&#9733;&#9733;&#9733; ratings on <a "
+"href=\"%1$s\" target=\"_blank\">DotStore</a>."
+msgstr ""
+"Wenn Ihnen das Plugin <strong>Advanced Flat Rate Shipping For "
+"WooCommerce</strong> gefällt, hinterlassen Sie uns bitte &#9733;&#9733;"
+"&#9733;&#9733;&#9733; Bewertungen auf <a href=\"%1$s\" target=\"_blank\">"
+"DotStore</a>."
+
+#: admin/partials/class-wc-extra-flat-eval-math.php:143
+msgid "illegal character '_'"
+msgstr "ungültiges Zeichen '_'"
+
+#: admin/partials/afrsm-import-export-setting.php:57
+#: admin/partials/afrsm-import-export-setting.php:104
+msgid "Import"
+msgstr "Import"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:7384
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:7457
+msgid "Import / Export"
+msgstr "Import / Export"
+
+#: admin/partials/afrsm-import-export-setting.php:90
+msgid "Import Shipping Method Data"
+msgstr "Import Versandart Daten"
+
+#: admin/partials/afrsm-import-export-setting.php:13
+msgid "Import successfully"
+msgstr "Importieren erfolgreich"
+
+#: admin/partials/afrsm-import-export-setting.php:105
+msgid ""
+"Import the shipping method settings from a .json file. This file can be "
+"obtained by exporting the settings on another site using the form above."
+msgstr ""
+"Importieren Sie die Versand Methode Sie Einstellungen aus einer .json-Datei. "
+"Dieses file erhalten Sie durch exportieren der Einstellungen auf einer "
+"anderen Website, die mit dem Formular oben."
+
+#: admin/partials/afrsm-import-export-setting.php:58
+msgid ""
+"Import the zone settings from a .json file. This file can be obtained by "
+"exporting the settings on another site using the form above."
+msgstr ""
+"Importieren Sie die Einstellungen aus einer .json-Datei. Dieses file "
+"erhalten Sie durch exportieren der Einstellungen auf einer anderen Website, "
+"die mit dem Formular oben."
+
+#: admin/partials/afrsm-import-export-setting.php:43
+msgid "Import Zone Data"
+msgstr "Import Zone Daten"
+
+#: admin/partials/afrsm-pro-information-page.php:24
+msgid "Installed Version"
+msgstr "Installierte Version"
+
+#: admin/partials/class-wc-extra-flat-eval-math.php:182
+#: admin/partials/class-wc-extra-flat-eval-math.php:276
+#: admin/partials/class-wc-extra-flat-eval-math.php:279
+#: admin/partials/class-wc-extra-flat-eval-math.php:319
+msgid "internal error"
+msgstr "interner Fehler"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1151
+msgid "Is Amount Taxable?"
+msgstr "Betrag Versteuern?"
+
+#: admin/partials/afrsm-premium-version-page.php:274
+msgid "Join 40,000 Happy Customer"
+msgstr "Join 40.000 Glückliche Kunden"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1900
+#: admin/partials/afrsm-pro-add-new-page.php:2097
+#: admin/partials/afrsm-pro-add-new-page.php:2297
+#: admin/partials/afrsm-pro-add-new-page.php:2492
+#: admin/partials/afrsm-pro-add-new-page.php:2695
+#: admin/partials/afrsm-pro-add-new-page.php:3099
+#: admin/partials/afrsm-pro-add-new-page.php:3309
+#: admin/partials/afrsm-pro-add-new-page.php:3504
+#: admin/partials/afrsm-pro-add-new-page.php:3706
+msgid "Leave empty then will set with maximum 999999999999999999999999999"
+msgstr ""
+"Leer lassen, dann wird festgelegt mit maximale 999999999999999999999999999"
+
+#: admin/partials/afrsm-pro-add-new-page.php:2900
+msgid "Leave empty then will set with maximum 999999999999999999999999999."
+msgstr ""
+"Leer lassen, dann wird festgelegt mit maximale 999999999999999999999999999."
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:303
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:448
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:542
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:625
+#: admin/partials/afrsm-pro-add-new-page.php:411
+msgid "Less or Equal to ( <= )"
+msgstr "Kleiner oder gleich ( <= )"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:304
+#: admin/partials/afrsm-pro-add-new-page.php:412
+msgid "Less than ( < )"
+msgstr "Kleiner als ( < )"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:449
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:543
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:626
+msgid "Less then ( < )"
+msgstr "Weniger als ( < )"
+
+#: admin/partials/header/plugin-sidebar.php:146
+msgid "Let us know how we can improve the plugin experience."
+msgstr ""
+"Lassen Sie uns wissen, wie wir uns verbessern können die plugin-Erlebnis."
+
+#: admin/partials/afrsm-premium-version-page.php:65
+msgid ""
+"Let's customer choose one shipping method from available shipping methods"
+msgstr ""
+"Lassen Sie uns Kunden wählen Sie eine Versand Methode, die aus verfügbaren "
+"Versandarten"
+
+#: admin/partials/afrsm-pro-information-page.php:28
+msgid "License & Terms of use"
+msgstr "Lizenz - & Nutzungsbedingungen"
+
+#: admin/partials/header/plugin-sidebar.php:67
+#: admin/partials/header/plugin-sidebar.php:100
+msgid "LIFETIMEPRO"
+msgstr "LIFETIMEPRO"
+
+#: admin/partials/header/plugin-sidebar.php:111
+msgid "Like This Plugin?"
+msgstr "Wie Dieses Plugin?"
+
+#: admin/partials/form-add-shipping-zone.php:153
+#: admin/partials/form-edit-shipping-zone.php:202
+msgid "List 1 city per line."
+msgstr "Liste 1 Stadt pro Zeile."
+
+#: admin/partials/form-add-shipping-zone.php:194
+#: admin/partials/form-edit-shipping-zone.php:251
+msgid ""
+"List 1 postcode per line. Wildcards (*) and ranges (for numeric postcodes) "
+"are supported. If you have space in postcode then please add = (equal to) "
+"instead of space EX: Postcode - ES2 ABS then You can enter ES2=*"
+msgstr ""
+"Liste 1 Postleitzahl pro Zeile. Platzhalter (*) und Bereichen (numerische "
+"Postleitzahlen) werden unterstützt. Wenn Sie den Raum haben, in Postleitzahl,"
+" dann fügen Sie bitte = (gleich), statt Raum EX: PLZ - ES2-ABS-dann können "
+"Sie ES2=*"
+
+#: admin/partials/afrsm-pro-list-page.php:267
+msgid "List status: ( <span class=\"active_list\">%d</span> / %d )"
+msgstr "Listenstatus: ( <span class=\"active_list\">%d</span> / %d )"
+
+#: admin/partials/afrsm-pro-information-page.php:53
+msgid "Localization"
+msgstr "Lokalisierung"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:465
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:551
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:634
+msgid "Location Specific"
+msgstr "Standort Spezifische"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:501
+#: admin/partials/afrsm-pro-add-new-page.php:1523
+msgid "Make sure enter each city name in one line."
+msgstr "Stellen Sie sicher, geben Sie den einzelnen Stadt-name in einer Zeile."
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:7362
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:7435
+msgid "Manage Shipping Methods"
+msgstr "Verwalten Versandarten"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:7372
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:7445
+msgid "Manage Shipping Zones"
+msgstr "Verwalten Von Zonen Versand"
+
+#: admin/partials/afrsm-pro-list-page.php:283
+msgid "Master Settings"
+msgstr "Master-Einstellungen"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:472
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:571
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:654
+msgid "Max qty should greater then min qty"
+msgstr "Max Menge sollte größer als min Menge"
+
+#: admin/partials/afrsm-pro-add-new-page.php:3094
+msgid "Max Quantity"
+msgstr "Max Menge"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:443
+msgid "Max quantity"
+msgstr "Max Menge"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1895
+#: admin/partials/afrsm-pro-add-new-page.php:2487
+msgid "Max Quantity "
+msgstr "Max Menge "
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:462
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:570
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:653
+#: admin/partials/afrsm-pro-add-new-page.php:2091
+#: admin/partials/afrsm-pro-add-new-page.php:2689
+#: admin/partials/afrsm-pro-add-new-page.php:3498
+msgid "Max Subtotal"
+msgstr "Max Zwischensumme"
+
+#: admin/partials/afrsm-pro-add-new-page.php:3701
+msgid "Max Subtotal "
+msgstr "Max Zwischensumme "
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:474
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:573
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:656
+msgid "Max subtotal should greater then min subtotal"
+msgstr "Max Zwischensumme sollte größer sein als min Zwischensumme"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:459
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:567
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:650
+#: admin/partials/afrsm-pro-add-new-page.php:3304
+msgid "Max Weight"
+msgstr "Max Gewicht"
+
+#: admin/partials/afrsm-pro-add-new-page.php:2292
+#: admin/partials/afrsm-pro-add-new-page.php:2895
+#| msgid "Max weight "
+msgid "Max Weight "
+msgstr "Maximalgewicht"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:473
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:572
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:655
+msgid "Max weight should greater then min weight"
+msgstr "Max Gewicht sollte größer sein als min-Gewicht"
+
+#: admin/partials/afrsm-pro-add-new-page.php:880
+msgid "Maximum free shipping coupan amount"
+msgstr "Maximale kostenloser Versand Gutschein Betrag"
+
+#: admin/partials/afrsm-pro-add-new-page.php:798
+msgid "Maximum free shipping order amount"
+msgstr "Maximale versandkostenfrei bestellen Höhe"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:442
+msgid "Min quantity"
+msgstr "Min Menge"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1887
+#: admin/partials/afrsm-pro-add-new-page.php:2479
+#: admin/partials/afrsm-pro-add-new-page.php:3086
+msgid "Min Quantity "
+msgstr "Min Menge "
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:461
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:569
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:652
+msgid "Min Subtotal"
+msgstr "Min Zwischensumme"
+
+#: admin/partials/afrsm-pro-add-new-page.php:2082
+#: admin/partials/afrsm-pro-add-new-page.php:2680
+#: admin/partials/afrsm-pro-add-new-page.php:3489
+#: admin/partials/afrsm-pro-add-new-page.php:3693
+msgid "Min Subtotal "
+msgstr "Min Zwischensumme "
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:458
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:566
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:649
+msgid "Min Weight"
+msgstr "Min-Gewicht"
+
+#: admin/partials/afrsm-pro-add-new-page.php:2284
+#: admin/partials/afrsm-pro-add-new-page.php:2887
+#: admin/partials/afrsm-pro-add-new-page.php:3296
+msgid "Min Weight "
+msgstr "Min-Gewicht "
+
+#: admin/partials/header/plugin-sidebar.php:53
+#: admin/partials/header/plugin-sidebar.php:86
+msgid "Mini & Maxi values for cart total and/or weight and more"
+msgstr "Mini - & Maxi-Werte für den Warenkorb Gesamt-und/oder Gewicht und mehr"
+
+#: admin/partials/afrsm-pro-add-new-page.php:664
+msgid "Minimum Order Amount"
+msgstr "Minimale Auftrag Menge"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1250
+msgid "Monday"
+msgstr "Montag"
+
+#: admin/partials/afrsm-premium-version-page.php:28
+msgid "Most flexible Table Rate Shipping plugin for WooCommerce"
+msgstr "Die meisten flexiblen Tabelle Rate Versand-plugin für WooCommerce"
+
+#: admin/partials/header/plugin-header.php:69
+msgid "My Account"
+msgstr "Mein Konto"
+
+#: admin/partials/form-add-shipping-zone.php:41
+#: admin/partials/form-edit-shipping-zone.php:85
+msgid "Name"
+msgstr "Name"
+
+#: admin/partials/afrsm-pro-add-new-page.php:632
+#: admin/partials/afrsm-pro-add-new-page.php:893
+#: admin/partials/afrsm-pro-add-new-page.php:977
+msgid "New"
+msgstr "Neu"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1117
+#: admin/partials/afrsm-pro-add-new-page.php:1136
+#: admin/partials/afrsm-pro-add-new-page.php:1155
+msgid "No"
+msgstr "Keine"
+
+#: admin/list-tables/class-wc-flat-rate-rule-table.php:318
+#: admin/list-tables/class-wc-flat-rate-rule-table.php:321
+msgid "no"
+msgstr "nein"
+
+#. Translators: $s shipping destination.
+#: woocommerce/cart/cart-shipping.php:157
+#, php-format
+msgid "No shipping options were found for %s."
+msgstr "Kein Versand Optionen wurden nicht gefunden von %s mit."
+
+#: admin/list-tables/class-wc-flat-rate-rule-table.php:162
+msgid "No shipping rule found."
+msgstr "Keine Versandregel gefunden."
+
+#: admin/partials/form-add-shipping-zone.php:72
+#: admin/partials/form-add-shipping-zone.php:108
+#: admin/partials/form-edit-shipping-zone.php:127
+#: admin/partials/form-edit-shipping-zone.php:160
+msgid "None"
+msgstr "None"
+
+#: admin/partials/form-add-shipping-zone.php:77
+#: admin/partials/form-edit-shipping-zone.php:132
+msgid "North America"
+msgstr "North America"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:283
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:446
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:541
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:624
+#: admin/partials/afrsm-pro-add-new-page.php:415
+#: admin/partials/afrsm-pro-add-new-page.php:419
+msgid "Not Equal to ( != )"
+msgstr "Nicht Gleich ( != )"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1097
+msgid "Not for dropdown shipping method"
+msgstr "Nicht für dropdown Versand Methode"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1090
+msgid "Not for forceall shipping method and not for dropdown shipping method"
+msgstr ""
+"Nicht für forceall Versand Methode und nicht für die dropdown Versand Methode"
+
+#: admin/partials/afrsm-pro-add-new-page.php:536
+msgid "Note : "
+msgstr "Hinweis : "
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:483
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:559
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:642
+#: admin/partials/afrsm-pro-add-new-page.php:1522
+#: admin/partials/afrsm-pro-add-new-page.php:1537
+#: admin/partials/afrsm-pro-add-new-page.php:1551
+#: admin/partials/afrsm-pro-add-new-page.php:1567
+#: admin/partials/afrsm-pro-add-new-page.php:1584
+#: admin/partials/afrsm-pro-add-new-page.php:1593
+#: admin/partials/afrsm-pro-add-new-page.php:1604
+#: admin/partials/afrsm-pro-add-new-page.php:1620
+#: admin/partials/afrsm-pro-add-new-page.php:1980
+#: admin/partials/afrsm-pro-add-new-page.php:2181
+#: admin/partials/afrsm-pro-add-new-page.php:2376
+#: admin/partials/afrsm-pro-add-new-page.php:2576
+#: admin/partials/afrsm-pro-add-new-page.php:2780
+#: admin/partials/afrsm-pro-add-new-page.php:2981
+#: admin/partials/afrsm-pro-add-new-page.php:3176
+#: admin/partials/afrsm-pro-add-new-page.php:3384
+#: admin/partials/afrsm-pro-add-new-page.php:3583
+#: admin/partials/afrsm-pro-add-new-page.php:3790
+msgid "Note: "
+msgstr "Hinweis: "
+
+#: admin/partials/afrsm-pro-add-new-page.php:563
+msgid ""
+"Note: You will have to set rules for products\n"
+"                                        if you select product based option. "
+"Ex: Cart contains product : equal to : Test Product"
+msgstr ""
+"Hinweis: Sie müssen Regeln für die Produkte, wenn Sie wählen Sie die Produkt-"
+"basierte option. Ex: Warenkorb enthält Produkt : Höhe : Test-Produkt"
+
+#: admin/list-tables/class-wc-flat-rate-rule-table.php:301
+msgid "null"
+msgstr "Null"
+
+#: admin/partials/afrsm-pro-list-page.php:380
+msgid "Number of shipping methods per page"
+msgstr "Anzahl der Verschiffen Methoden pro Seite"
+
+#: admin/partials/form-add-shipping-zone.php:78
+#: admin/partials/form-edit-shipping-zone.php:133
+msgid "Oceania"
+msgstr "Ozeanien"
+
+#: admin/partials/form-add-shipping-zone.php:113
+#: admin/partials/form-edit-shipping-zone.php:165
+msgid "Oceania States"
+msgstr "Ozeanien Staaten"
+
+#: admin/partials/afrsm-premium-version-page.php:23
+msgid "Offers diverse shipping options to customers"
+msgstr "Bietet verschiedene Versand Optionen zu Kunden"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:292
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:447
+msgid "Only Equal to ( == )"
+msgstr "Nur Gleich ( == )"
+
+#: admin/partials/afrsm-premium-version-page.php:27
+msgid "Optimize shipping by molding shipping rates"
+msgstr "Optimieren Sie Versand durch Formen Versandkosten"
+
+#: admin/partials/afrsm-premium-version-page.php:24
+msgid "Optimize Shipping – Maximize Revenue"
+msgstr "Optimieren Sie Den Versand – Maximieren Sie Ihre Einnahmen"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:464
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:550
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:633
+msgid "or more characters"
+msgstr "oder mehr Zeichen"
+
+#: admin/partials/header/plugin-sidebar.php:169
+msgid "Our Popular Plugins"
+msgstr "Unsere Beliebten Plugins"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:238
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:471
+msgid "Payment Method"
+msgstr "Zahlung Methode"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:243
+msgid "Payment Method  ( In Pro )"
+msgstr "Zahlung Methode ( In Pro )"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:539
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:622
+msgid "Payment Method ( In Pro )"
+msgstr "Zahlung Methode ( In Pro )"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1397
+msgid "Per class: Charge shipping for each shipping class individually"
+msgstr ""
+"Pro Klasse: Berechnen Sie die Versandkosten für jeden Versand individuell "
+"einer Klasse"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1400
+msgid "Per order: Charge shipping for the most expensive shipping class"
+msgstr ""
+"Pro Bestellung: Berechnen Sie die Versandkosten für den teuersten Versand-"
+"Klasse"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:478
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:577
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:660
+msgid ""
+"Please disable Advance Pricing Rule if you dont need because you have not "
+"created rule there."
+msgstr ""
+"Bitte deaktivieren Voraus, die Preisgestaltung der Regel, wenn Sie nicht "
+"brauchen, weil Sie nicht erstellt haben dort herrschen."
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:463
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:549
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:632
+msgid "Please enter"
+msgstr "Bitte geben Sie"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1103
+msgid "Please enter 100 characters only!"
+msgstr "Bitte geben Sie 100 Zeichen!"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:452
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:546
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:629
+msgid "Please enter 3 or more characters"
+msgstr "Bitte geben Sie 3 oder mehr Zeichen"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:481
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:580
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:663
+msgid "Please fill some required field in advance pricing rule section"
+msgstr ""
+"Bitte füllen Sie einige erforderliche Feld in advance pricing rule Abschnitt"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1552
+msgid ""
+"Please make sure that when you add rules in\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tAdvanced Pricing > Cost per Category "
+"Section It contains in above selected category list,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\totherwise it may be not apply proper "
+"shipping charges. For more detail please view\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tour documentation at "
+msgstr ""
+"Bitte stellen Sie sicher, dass dies beim Hinzufügen von Regeln der Fall ist\n"
+"Erweiterte Preisgestaltung > Abschnitt \"Kosten pro Kategorie\" Es enthält "
+"in der oben ausgewählten Kategorieliste,\n"
+"Andernfalls werden möglicherweise keine angemessenen Versandkosten erhoben. "
+"Für weitere Details bitte ansehen\n"
+"unsere Dokumentation unter"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1538
+msgid ""
+"Please make sure that when you add rules in\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tAdvanced Pricing > Cost per Product "
+"Section It contains in above selected product list,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\totherwise it may be not apply proper "
+"shipping charges. For more detail please view\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tour documentation at "
+msgstr ""
+"Bitte stellen Sie sicher, dass dies beim Hinzufügen von Regeln der Fall ist\n"
+"Erweiterte Preisgestaltung > Kosten pro Produktabschnitt Es enthält in der "
+"oben ausgewählten Produktliste,\n"
+"Andernfalls werden möglicherweise keine angemessenen Versandkosten erhoben. "
+"Für weitere Details bitte ansehen\n"
+"unsere Dokumentation unter"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1605
+msgid ""
+"Please make sure that when you add rules in\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tAdvanced Pricing > Cost per weight "
+"Section It contains in above entered weight,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\totherwise it may be not apply proper "
+"shipping charges. For more detail please view\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tour documentation at "
+msgstr ""
+"Bitte stellen Sie sicher, dass dies beim Hinzufügen von Regeln der Fall ist\n"
+"Erweiterte Preisgestaltung > Abschnitt Kosten pro Gewicht Enthält das oben "
+"eingegebene Gewicht,\n"
+"Andernfalls werden möglicherweise keine angemessenen Versandkosten erhoben. "
+"Für weitere Details bitte ansehen\n"
+"unsere Dokumentation unter"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:491
+msgid ""
+"Please make sure that when you add rules in Advanced Pricing > Cost per "
+"category Section , then this rule should be satisfy,\n"
+"\t\t\t\t\t\t\t                                            otherwise it may "
+"be not apply proper shipping charges. For more detail please view\n"
+"                                                                        our "
+"documentation at "
+msgstr ""
+"Bitte stellen Sie sicher, dass diese Regel erfüllt sein sollte, wenn Sie "
+"Regeln in Advanced Pricing > Cost per category Section hinzufügen.\n"
+"Andernfalls werden möglicherweise keine angemessenen Versandkosten erhoben. "
+"Für weitere Details bitte ansehen\n"
+"                                                                        "
+"unsere Dokumentation unter"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:488
+msgid ""
+"Please make sure that when you add rules in Advanced Pricing > Cost per "
+"product Section, then this rule should be satisfy,\n"
+"\t\t\t\t\t\t\t                                            otherwise it may "
+"be not apply proper shipping charges. For more detail please view\n"
+"                                                                        our "
+"documentation at "
+msgstr ""
+"Bitte stellen Sie sicher, dass diese Regel erfüllt sein sollte, wenn Sie "
+"Regeln im Bereich „Erweiterte Preisgestaltung“ > „Kosten pro Produkt“ "
+"hinzufügen.\n"
+"Andernfalls werden möglicherweise keine angemessenen Versandkosten erhoben. "
+"Für weitere Details bitte ansehen\n"
+"                                                                        "
+"unsere Dokumentation unter"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:485
+msgid ""
+"Please make sure that when you add rules in Advanced Pricing > Cost per "
+"weight Section, then this rule should be satisfy,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\totherwise it may be not apply proper "
+"shipping charges. For more detail please view\n"
+"                                                                        our "
+"documentation at "
+msgstr ""
+"Bitte stellen Sie sicher, dass diese Regel erfüllt sein sollte, wenn Sie "
+"Regeln im Abschnitt „Erweiterte Preisgestaltung“ > „Kosten pro Gewicht“ "
+"hinzufügen.\n"
+"Andernfalls werden möglicherweise keine angemessenen Versandkosten erhoben. "
+"Für weitere Details bitte ansehen\n"
+"                                                                        "
+"unsere Dokumentation unter"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:6982
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:7280
+msgid "Please upload a file to import"
+msgstr "Bitte laden Sie eine Datei importieren"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:6978
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:7276
+msgid "Please upload a valid .json file"
+msgstr "Bitte laden Sie eine gültige .json-Datei"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:75
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:83
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:92
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:425
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:522
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:602
+msgid "Postcode"
+msgstr "PLZ"
+
+#: admin/list-tables/class-wc-shipping-zones-table.php:180
+#: admin/partials/form-add-shipping-zone.php:188
+#: admin/partials/form-edit-shipping-zone.php:245
+msgid "Postcodes"
+msgstr "Postleitzahlen"
+
+#: admin/partials/afrsm-premium-version-page.php:57
+msgid "Premium Features"
+msgstr "Premium-Features"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:7484
+msgid "Premium Version"
+msgstr "Premium-Version"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1879
+#: admin/partials/afrsm-pro-add-new-page.php:2276
+msgid "Product"
+msgstr "Produkt"
+
+#: admin/partials/header/plugin-sidebar.php:210
+#: admin/partials/header/plugin-sidebar.php:212
+msgid "Product Attachment For WooCommerce"
+msgstr "Produkt-Aufsatz Für WooCommerce"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:362
+msgid "Product Based"
+msgstr "Produkt-Basierend"
+
+#: admin/partials/afrsm-pro-information-page.php:20
+msgid "Product Name"
+msgstr "Produkt-Name"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1361
+msgid "product shipping class"
+msgstr "Produkt Versandkosten Klasse"
+
+#: admin/partials/header/plugin-sidebar.php:198
+#: admin/partials/header/plugin-sidebar.php:200
+msgid "Product Size Charts Plugin For WooCommerce"
+msgstr "Produkt Größe Charts Plugin Für WooCommerce"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:466
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:552
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:635
+msgid "Product Specific"
+msgstr "Produkt Spezifische"
+
+#: admin/partials/afrsm-pro-add-new-page.php:2022
+#: admin/partials/afrsm-pro-add-new-page.php:2075
+#: admin/partials/afrsm-pro-add-new-page.php:2078
+msgid "Product Subtotal"
+msgstr "Produkt-Teilsumme"
+
+#: admin/partials/afrsm-pro-information-page.php:16
+msgid "Product Type"
+msgstr "Produkt-Typ"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:191
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:438
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:535
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:615
+msgid "Quantity"
+msgstr "Menge"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1040
+msgid "Quantity - Over"
+msgstr "Menge - Über"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1025
+msgid "Quantity - Per each"
+msgstr "Menge Pro"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1010
+msgid "Quantity - Rate"
+msgstr "Menge - Rate"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1019
+msgid "Quantity amount"
+msgstr "Menge Menge"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1049
+msgid "Quantity over"
+msgstr "Quantität über"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1034
+msgid "Quantity per each"
+msgstr "Menge pro"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:7404
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:7477
+#: admin/partials/afrsm-pro-information-page.php:12
+msgid "Quick info"
+msgstr "Quick-info"
+
+#: admin/partials/afrsm-pro-information-page.php:41
+msgid "Quick Start"
+msgstr "Quick Start"
+
+#: admin/partials/header/plugin-header.php:48
+msgid "Quick Support"
+msgstr "Quick Support"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1430
+#: admin/partials/afrsm-pro-add-new-page.php:1865
+#: admin/partials/afrsm-pro-add-new-page.php:2062
+#: admin/partials/afrsm-pro-add-new-page.php:2262
+#: admin/partials/afrsm-pro-add-new-page.php:2459
+#: admin/partials/afrsm-pro-add-new-page.php:2660
+#: admin/partials/afrsm-pro-add-new-page.php:2867
+#: admin/partials/afrsm-pro-add-new-page.php:3066
+#: admin/partials/afrsm-pro-add-new-page.php:3276
+#: admin/partials/afrsm-pro-add-new-page.php:3469
+#: admin/partials/afrsm-pro-add-new-page.php:3673
+msgid "rule match"
+msgstr "Regel"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1255
+msgid "Saturday"
+msgstr "Samstag"
+
+#: admin/partials/afrsm-pro-add-new-page.php:405
+#: admin/partials/form-edit-shipping-zone.php:274
+msgid "Save changes"
+msgstr "Änderungen speichern"
+
+#: admin/partials/afrsm-pro-list-page.php:388
+msgid "Save Master Settings"
+msgstr "Speichern Sie Master-Einstellungen"
+
+#: admin/partials/afrsm-pro-list-page.php:260
+msgid "Save Order"
+msgstr "Speichern, Um"
+
+#: admin/partials/afrsm-pro-list-page.php:273
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Suchergebnisse für &#8220;%s&#8221;"
+
+#: admin/partials/afrsm-pro-list-page.php:275
+msgid "Search Shipping Rule"
+msgstr "Versandregel suchen"
+
+#: admin/partials/afrsm-pro-add-new-page.php:2475
+msgid ""
+"Select a category to apply the fee amount to when the min/max quantity match."
+msgstr ""
+"Wählen Sie eine Kategorie anwenden der Gebühr Betrag zu, wenn die min - /max-"
+"Menge entsprechen."
+
+#: admin/partials/afrsm-pro-add-new-page.php:2883
+msgid ""
+"Select a category to apply the fee amount to when the min/max weight match."
+msgstr ""
+"Wählen Sie eine Kategorie anwenden der Gebühr Betrag zu, wenn die min/max "
+"Gewicht Spiel."
+
+#: admin/partials/afrsm-pro-add-new-page.php:1883
+msgid ""
+"Select a product to apply the fee amount to when the min/max quantity match."
+msgstr ""
+"Wählen Sie ein Produkt anwenden der Gebühr Betrag zu, wenn die min - /max-"
+"Menge entsprechen."
+
+#: admin/partials/afrsm-pro-add-new-page.php:2280
+msgid ""
+"Select a product to apply the fee amount to when the min/max weight match."
+msgstr ""
+"Wählen Sie ein Produkt anwenden der Gebühr Betrag zu, wenn die min/max "
+"Gewicht Spiel."
+
+#: admin/partials/afrsm-pro-add-new-page.php:3689
+msgid ""
+"Select a shipping class to apply the fee amount to when the min/max subtotal "
+"match."
+msgstr ""
+"Wählen Sie einen Versand-class anwenden der Gebühr Betrag zu, wenn die "
+"min/max Zwischensumme übereinstimmt."
+
+#: woocommerce/cart/cart-shipping.php:52
+msgid "Select a shipping option"
+msgstr "Wählen Sie eine Versandoption"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:453
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:547
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:630
+#: admin/partials/afrsm-pro-add-new-page.php:2824
+msgid "Select Category"
+msgstr "Kategorie Wählen"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1274
+msgid ""
+"Select days on which day shipping method will enable on the website. This "
+"rule match with current day which is set by wordpress"
+msgstr ""
+"Wählen Sie die Tage, an welchem Tag Versand Methode wird es ermöglichen, auf "
+"der website. Diese Regel mit dem aktuellen Tag die von wordpress"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1227
+msgid ""
+"Select end date on which date shipping method will disable on the website.\n"
+"\t\t\t\t\t\t\t\t\t\t\t&nbsp;&nbsp;&nbsp;<span class=\"dashicons dashicons-"
+"info-outline\"></span>\n"
+"\t\t\t\t\t\t\t\t\t\t\t<a href=\"https://docs.thedotstore.com/article/300-how-"
+"to-add-start-date-and-end-data\" target=\"_blank\">View Documentation</a><br>"
+msgstr ""
+"Wählen Sie das Enddatum aus, an dem die Versandmethode auf der Website "
+"deaktiviert wird.\n"
+"&nbsp;&nbsp;&nbsp;<span class=\"dashicons dashicons-info-outline\"></span>\n"
+"<a href=\"https://docs.thedotstore.com/article/300-how-to-add-start-date-and-"
+"end-data\" target=\"_blank\">Dokumentation anzeigen</a><br>"
+
+#: admin/partials/afrsm-pro-add-new-page.php:732
+msgid ""
+"Select products which you want to apply for free shipping. Free shipping "
+"rule active when selected product in cart."
+msgstr ""
+"Wählen Sie Produkte, die Sie wollen zu gelten für freies Verschiffen. "
+"Kostenloser Versand-Regel aktiv, wenn ausgewählte Produkt in den Warenkorb."
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:454
+msgid "Select Shipping Class"
+msgstr "Wählen Sie Versand-Klasse"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1200
+msgid ""
+"Select start date on which date shipping method will enable on the website.\n"
+"\t\t\t\t\t\t\t\t\t\t\t&nbsp;&nbsp;&nbsp;<span class=\"dashicons dashicons-"
+"info-outline\"></span>\n"
+"\t\t\t\t\t\t\t\t\t\t\t<a href=\"https://docs.thedotstore.com/article/300-how-"
+"to-add-start-date-and-end-data\" target=\"_blank\">View Documentation</a><br>"
+msgstr ""
+"Wählen Sie das Startdatum aus, an dem die Versandmethode auf der Website "
+"aktiviert wird.\n"
+"&nbsp;&nbsp;&nbsp;<span class=\"dashicons dashicons-info-outline\"></span>\n"
+"<a href=\"https://docs.thedotstore.com/article/300-how-to-add-start-date-and-"
+"end-data\" target=\"_blank\">Dokumentation anzeigen</a><br>"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1304
+msgid ""
+"Select time on which time shipping method will enable on the website. This "
+"rule match with current time which is set by wordpress"
+msgstr ""
+"Wählen Sie die Zeit auf die Zeit, die Verschiffen Methode wird es "
+"ermöglichen, auf der website. Diese Regel mit der aktuellen Zeit, die von "
+"wordpress"
+
+#: admin/partials/afrsm-pro-list-page.php:342
+msgid "Separate shipping method (only combine our plugin's shipping method.)"
+msgstr ""
+"Separate Verschiffen Methode (nur verbinden unsere plugins Versand Methode.)"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1141
+msgid "Set default selected shipping method on cart. Default: No"
+msgstr "Set default gewählten Versandart auf Warenkorb. Default: Nein"
+
+#: admin/partials/header/plugin-sidebar.php:51
+#: admin/partials/header/plugin-sidebar.php:84
+msgid "Set Fixed, Percentage & Dynamic Parameter based shipping"
+msgstr "Legen Sie Fest, Prozentuale & Dynamische Parameter-basierten Versand"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1072
+msgid ""
+"Set which type of details you want to show on frontside. Default: Tooltip"
+msgstr ""
+"Festlegen, welche Art von details, die Sie wollen zeigen auf der Vorderseite."
+" Standard: Tooltip"
+
+#: advanced-flat-rate-shipping-for-woocommerce.php:334
+#: includes/class-advanced-flat-rate-shipping-for-woocommerce.php:298
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: admin/partials/afrsm-pro-add-new-page.php:507
+msgid "Shipping Charge"
+msgstr "Versandkosten"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:201
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:441
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:618
+#: admin/partials/afrsm-pro-add-new-page.php:3686
+msgid "Shipping Class"
+msgstr "Shipping Class"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:209
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:218
+msgid "Shipping Class  ( In Pro )"
+msgstr "Versand Klasse ( In Pro )"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:538
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:621
+msgid "Shipping Class ( In Pro )"
+msgstr "Versand Klasse ( In Pro )"
+
+#: admin/partials/afrsm-premium-version-page.php:231
+msgid "Shipping Cost on Category"
+msgstr "Shipping Cost Kategorie"
+
+#: admin/partials/afrsm-premium-version-page.php:234
+msgid "Shipping Cost on Category Weight"
+msgstr "Versand Kosten auf Gewicht Kategorie"
+
+#: admin/partials/afrsm-premium-version-page.php:230
+msgid "Shipping Cost on Product"
+msgstr "Versandkosten des Produkts"
+
+#: admin/partials/afrsm-premium-version-page.php:233
+msgid "Shipping Cost on Product Weight"
+msgstr "Versand Kosten auf Produkt Gewicht"
+
+#: admin/partials/afrsm-premium-version-page.php:232
+msgid "Shipping Cost on Total Cart Qty"
+msgstr "Versand Kosten auf Insgesamt Cart Qty"
+
+#: admin/partials/afrsm-premium-version-page.php:235
+msgid "Shipping Cost on Total Cart Weight"
+msgstr "Versand Kosten auf Insgesamt Cart Gewicht"
+
+#: woocommerce/cart/cart-shipping.php:149
+msgid "Shipping costs are calculated during checkout."
+msgstr "Versand Kosten sind berechnet während der Prüfung."
+
+#: admin/partials/afrsm-pro-list-page.php:324
+msgid "Shipping Display Mode"
+msgstr "Versand-Display-Modus"
+
+#: admin/partials/afrsm-premium-version-page.php:104
+#: admin/partials/afrsm-premium-version-page.php:111
+msgid "Shipping method based on SKU"
+msgstr "Versand Methode basierend auf SKU"
+
+#: admin/partials/afrsm-premium-version-page.php:88
+#: admin/partials/afrsm-premium-version-page.php:93
+msgid "Shipping method based on Tag"
+msgstr "Versand Methode basierend auf Tag"
+
+#: admin/partials/afrsm-premium-version-page.php:150
+#: admin/partials/afrsm-premium-version-page.php:154
+msgid "Shipping method based on total cart quantity"
+msgstr "Versand Methode basiert auf den gesamten Warenkorb Menge"
+
+#: admin/partials/afrsm-premium-version-page.php:165
+#: admin/partials/afrsm-premium-version-page.php:172
+msgid "Shipping method based on total cart's weight"
+msgstr "Versand Methode basiert auf den gesamten Warenkorb Gewicht"
+
+#: admin/partials/afrsm-premium-version-page.php:135
+#: admin/partials/afrsm-premium-version-page.php:142
+msgid "Shipping method based on User Role"
+msgstr "Versand Methode basierend auf Benutzer-Rolle"
+
+#: admin/partials/afrsm-pro-add-new-page.php:428
+msgid "Shipping Method Configuration"
+msgstr "Versand Methode Konfiguration"
+
+#: admin/partials/afrsm-premium-version-page.php:120
+#: admin/partials/afrsm-premium-version-page.php:124
+msgid "Shipping method for specific users"
+msgstr "Versand Methode für bestimmte Benutzer"
+
+#: admin/partials/afrsm-pro-add-new-page.php:486
+msgid "Shipping Method Name (For public view)"
+msgstr "Versand Methode Name (Für die öffentlichkeit)"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:475
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:556
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:574
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:639
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:657
+msgid "Shipping method order saved successfully"
+msgstr "Versand Methode um erfolgreich gespeichert"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1411
+msgid "Shipping Method Rules"
+msgstr "Versand Methode Regeln"
+
+#: admin/partials/afrsm-premium-version-page.php:68
+msgid ""
+"Shipping method with the highest cost would be displayed from the available "
+"shipping methods"
+msgstr ""
+"Versand Methode mit die höchsten Kosten würde werden angezeigt aus, um die "
+"verfügbaren Versandarten"
+
+#: admin/partials/afrsm-premium-version-page.php:71
+msgid ""
+"Shipping method with the lowest cost would be displayed from the available "
+"shipping methods"
+msgstr ""
+"Versand Methode mit den geringsten Kosten würde werden angezeigt aus, um die "
+"verfügbaren Versandarten"
+
+#: admin/partials/afrsm-pro-list-page.php:258
+msgid "Shipping Methods"
+msgstr "Versandarten"
+
+#: admin/list-tables/class-wc-flat-rate-rule-table.php:38
+#: admin/list-tables/class-wc-flat-rate-rule-table.php:48
+msgid "Shipping Name"
+msgstr "Versandname"
+
+#: woocommerce/cart/cart-shipping.php:141
+msgid "Shipping options will be updated during checkout."
+msgstr "Versand Optionen werden aktualisiert, während der Kaufabwicklung."
+
+#: admin/partials/afrsm-pro-add-new-page.php:1322
+msgid "Shipping Provider"
+msgstr "Verschiffen Anbieter"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1332
+msgid ""
+"Shipping provider select for order attahch with this fee as Germenized "
+"plugin does"
+msgstr ""
+"Versand-Anbieter wählen Sie für Ordnung attahch mit dieser Gebühr als "
+"Germenized plugin macht"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:7803
+msgid "Shipping rule has been created."
+msgstr "Versandregel wurde erstellt."
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:7807
+msgid "Shipping rule has been deleted."
+msgstr "Versandregel wurde gelöscht."
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:7811
+msgid "Shipping rule has been disabled."
+msgstr "Die Versandregel wurde deaktiviert."
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:7809
+msgid "Shipping rule has been duplicated."
+msgstr "Versandregel wurde dupliziert."
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:7813
+msgid "Shipping rule has been enabled."
+msgstr "Die Versandregel wurde aktiviert."
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:7805
+msgid "Shipping rule has been updated."
+msgstr "Die Versandregel wurde aktualisiert."
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:6124
+msgid "Shipping status changed successfully."
+msgstr "Der Versandstatus erfolgreich geändert."
+
+#. Translators: $s shipping destination.
+#: woocommerce/cart/cart-shipping.php:138
+#, php-format
+msgid "Shipping to %s."
+msgstr "Versand an %en."
+
+#: admin/partials/afrsm-pro-shipping-zone-page.php:294
+msgid "Shipping zone saved."
+msgstr "Versand zone gespeichert."
+
+#: admin/list-tables/class-wc-shipping-zones-table.php:269
+msgid "Shipping zones deleted"
+msgstr "Versand Zonen gelöscht"
+
+#: admin/list-tables/class-wc-shipping-zones-table.php:295
+msgid "Shipping zones disabled"
+msgstr "Versand Zonen deaktiviert"
+
+#: admin/list-tables/class-wc-shipping-zones-table.php:282
+msgid "Shipping zones enabled"
+msgstr "Versand Zonen sind aktiviert"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1113
+msgid "Show only for logged in users?"
+msgstr "Karte nur für angemeldete Benutzer?"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:6092
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:6126
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:6146
+msgid "Something went wrong"
+msgstr "Etwas ging falsch"
+
+#: admin/partials/form-add-shipping-zone.php:79
+#: admin/partials/form-edit-shipping-zone.php:134
+msgid "South America"
+msgstr "South America"
+
+#: admin/partials/afrsm-premium-version-page.php:33
+msgid "START 14-DAY FREE TRIAL »"
+msgstr "START 14-DAY FREE TRIAL» -"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1191
+msgid "Start Date"
+msgstr "Startdatum"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:73
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:81
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:90
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:423
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:520
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:600
+msgid "State"
+msgstr "Staat"
+
+#: admin/list-tables/class-wc-flat-rate-rule-table.php:41
+#: admin/list-tables/class-wc-flat-rate-rule-table.php:51
+#: admin/partials/afrsm-pro-add-new-page.php:440
+msgid "Status"
+msgstr "Status"
+
+#: admin/partials/afrsm-import-export-setting.php:21
+msgid "Step 1 - Import &amp; Export Shipping Zone"
+msgstr "Schritt 1 - Import & Export Versand Zone"
+
+#: admin/partials/afrsm-import-export-setting.php:68
+msgid "Step 2 - Import &amp; Export Shipping Method"
+msgstr "Schritt 2 - Import & Export Versand Methode"
+
+#: admin/partials/header/plugin-sidebar.php:230
+msgid "Submit a Ticket »"
+msgstr "Legen Sie eine Karte vor »"
+
+#: admin/partials/header/plugin-sidebar.php:148
+msgid "Submit Request »"
+msgstr "Anfrage Absenden »"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1068
+msgid "Subtitle"
+msgstr "Untertitel"
+
+#: admin/partials/header/plugin-sidebar.php:143
+msgid "Suggest A Feature"
+msgstr "Ein Feature Vorschlagen"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1249
+msgid "Sunday"
+msgstr "Sonntag"
+
+#: includes/class-advanced-flat-rate-shipping-for-woocommerce.php:300
+msgid "Support"
+msgstr "Support"
+
+#: admin/partials/afrsm-pro-information-page.php:47
+msgid "Support Forum"
+msgstr "Support Forum"
+
+#: admin/list-tables/class-wc-flat-rate-rule-table.php:40
+#: admin/list-tables/class-wc-flat-rate-rule-table.php:50
+msgid "Taxable"
+msgstr "Steuerpflichtige"
+
+#: admin/partials/afrsm-pro-get-started-page.php:11
+msgid "Thanks For Installing Advanced Flat Rate Shipping For WooCommerce"
+msgstr ""
+"Vielen Dank Für Die Installation Von Advanced Flat Rate Shipping For "
+"WooCommerce"
+
+#: admin/partials/afrsm-pro-add-new-page.php:587
+msgid ""
+"The quantity will be calculated\n"
+"                                        based on the option chosen in the "
+"\"Calculate Quantity Based On\" above dropdown. That means, if you have "
+"chosen \"Product Based\"\n"
+"                                        option then quantities will be "
+"calculated based on the products which are meeting the conditions set for "
+"this fee, and if\n"
+"                                        they are more than 1, fee will be "
+"calculated considering only its additional quantities. e.g. 5 items in cart, "
+"and\n"
+"                                        3 are meeting the condition set, "
+"then additional fee of $5 will be charged on 2 quantities only,\n"
+"                                        and not on 4 quantities."
+msgstr ""
+"Die Menge wird berechnet werden basierend auf der ausgewählten option in der "
+"\"Berechnen Sie die Menge Basierend Auf\" über dropdown. Das bedeutet, dass, "
+"wenn Sie gewählt haben \"Product-Based\" - option, dann die Mengen werden "
+"berechnet werden basierend auf die Produkte, die die Erfüllung der "
+"Bedingungen gesetzt für diese Gebühr, und wenn Sie mehr als 1, Gebühr wird "
+"berechnet, wenn nur die zusätzlichen Mengen. zB 5 Einzelteile in Warenkorb, "
+"und  3 werden der Erfüllung der Bedingung gesetzt wird, dann werden "
+"zusätzliche Gebühr von $5 wird aufgeladen werden auf 2-Mengen nur, und nicht "
+"auf 4 Größen."
+
+#: admin/partials/afrsm-premium-version-page.php:187
+msgid ""
+"The shipping class cost will be added to the shipping charge. For example, "
+"if you set $49 as a shipping charge and \"Poster class\" shipping cost would "
+"be $10. Now when cart having a product that has poster class then total "
+"shipping charge would be $59(49 + 10)."
+msgstr ""
+"Die Versandkosten Klasse, die Kosten werden Hinzugefügt werden, um die "
+"Versand Gebühr. Zum Beispiel, wenn Sie $49, Versandkosten und der \"Poster-"
+"Klasse\" Verschiffen Kosten wären $10. Nun, wenn Wagen mit einem Produkt, "
+"das Plakat der Klasse dann insgesamt Verschiffen Gebühr würde $59(49 + 10)."
+
+#: admin/partials/afrsm-premium-version-page.php:47
+msgid "thedotstore.com »"
+msgstr "thedotstore.com »"
+
+#: woocommerce/cart/cart-shipping.php:154
+msgid ""
+"There are no shipping options available. Please ensure that your address has "
+"been entered correctly, or contact us if you need any help."
+msgstr ""
+"Es sind keine Versandarten zur Verfügung. Stellen Sie bitte sicher, dass "
+"Ihre Adresse korrekt eingegeben wurde, oder Kontaktieren Sie uns, wenn Sie "
+"Hilfe benötigen."
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:7816
+msgid "There was an error with saving data."
+msgstr "Beim Speichern der Daten ist ein Fehler aufgetreten."
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:7818
+msgid "There was an error with security check."
+msgstr "Bei der Sicherheitsüberprüfung ist ein Fehler aufgetreten."
+
+#: admin/partials/afrsm-pro-add-new-page.php:1355
+msgid "These costs can optionally be added based on the "
+msgstr "Diese Kosten können Optional Hinzugefügt werden auf der Grundlage der "
+
+#: admin/partials/afrsm-premium-version-page.php:225
+msgid ""
+"This advanced flat rate for WooCommerce plugin allows you to create complex "
+"table rate shipping rules for your products worldwide. You now have the "
+"option of creating range bound shipping costs. E.g. 10-20 products = $10. "
+"You have the benefit of creating multiple product range costs with just one "
+"flat rate shipping method. Given below are a list of advanced shipping price "
+"rules (you can set min or max quantity and a unique shipping cost)"
+msgstr ""
+"Das erweiterte flat-rate für das WooCommerce-plugin ermöglicht das erstellen "
+"von komplexen Tabelle rate Versand Regeln für die Ihre Produkte weltweit. "
+"Sie haben jetzt die Möglichkeit, die Erstellung Bereich gebunden "
+"Versandkosten. E. g. 10-20 products = $10. Sie haben den Vorteil, das "
+"erstellen mehrerer Produktpalette Kosten mit nur einer Flatrate Versand "
+"Methode. Im folgenden finden Sie eine Liste von advanced Versand Preis "
+"Regeln (Sie können den min-oder max-Menge und eine einzigartige "
+"Versandkosten)"
+
+#: admin/partials/afrsm-pro-add-new-page.php:779
+msgid ""
+"This name will be visible to the customer at the time of checkout when free "
+"shipping is available. For example \"Free Shipping\", \"Free Rate\" etc"
+msgstr ""
+"Diese Namen werden sichtbar, um Kunden zum Zeitpunkt der Kasse, wenn freies "
+"Verschiffen ist verfügbar. Zum Beispiel \"Free Shipping\", \"Free Rate\" etc."
+
+#: admin/partials/afrsm-pro-add-new-page.php:497
+msgid ""
+"This name will be visible to the customer at the time of checkout. This "
+"should convey the purpose of the charges you are applying to the order. For "
+"example \"Ground Shipping\", \"Express Shipping Flat Rate\", \"Christmas "
+"Next Day Shipping\" etc"
+msgstr ""
+"Diese Namen werden sichtbar, um Kunden zum Zeitpunkt der Kasse. Dies sollte "
+"vermitteln den Zweck der Gebühren, die Sie anwenden, um die Reihenfolge. Zum "
+"Beispiel \"auf dem Landweg\", \"Express-Versand-Flatrate\", \"Christmas "
+"Nächsten Tag Verschiffen\" etc"
+
+#: admin/partials/afrsm-pro-add-new-page.php:474
+msgid "This name will display only for admin purpose"
+msgstr "Dieser name wird angezeigt, nur für admin-Zwecke"
+
+#: admin/partials/afrsm-premium-version-page.php:186
+msgid ""
+"This option allows a user to add extra cost based on shipping classes. It "
+"provides all shipping classes which are already used for the product. It "
+"displays all shipping classes list with a text box to add cost."
+msgstr ""
+"Diese option ermöglicht einem Benutzer das hinzufügen extra Kosten basiert "
+"auf Versand-Klassen. Es bietet alle Versand-Klassen, die bereits verwendet "
+"werden für die Produkt. Es zeigt alle Versand-Klassen-Liste mit einem "
+"Textfeld hinzufügen Kosten."
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:494
+#: admin/partials/afrsm-pro-add-new-page.php:1568
+#: admin/partials/afrsm-pro-add-new-page.php:1594
+msgid ""
+"This rule will only work if you have selected any one Product Specific "
+"option. "
+msgstr ""
+"Diese Regel funktioniert nur, wenn Sie ausgewählt haben ein Produkt "
+"Bestimmte option. "
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:496
+#: admin/partials/afrsm-pro-add-new-page.php:1621
+msgid "This rule will work for Force All Shipping Method in master setting "
+msgstr ""
+"Diese Regel wird für die Arbeit Zwingen, Alle Versand Methode, die in der "
+"master-Einstellung "
+
+#: admin/partials/afrsm-premium-version-page.php:156
+msgid ""
+"This shipping method allows you to create shipping method based on total "
+"quantity of cart. There are multiple conditions (like =, !=, <, <=, >, >=) "
+"available for this parameter."
+msgstr ""
+"Mit dieser Versandmethode können Sie eine Versandmethode basierend auf der "
+"Gesamtmenge des Warenkorbs erstellen. Für diesen Parameter stehen mehrere "
+"Bedingungen (wie =, !=, <, <=, >, >=) zur Verfügung."
+
+#: admin/partials/afrsm-premium-version-page.php:167
+msgid ""
+"This shipping method allows you to create shipping method based on total "
+"weight of cart. There are multiple conditions (like =, !=, <, <=, >, >=) "
+"available for this parameter."
+msgstr ""
+"Mit dieser Versandmethode können Sie eine Versandmethode basierend auf dem "
+"Gesamtgewicht des Warenkorbs erstellen. Für diesen Parameter stehen mehrere "
+"Bedingungen (wie =, !=, <, <=, >, >=) zur Verfügung."
+
+#: admin/partials/form-add-shipping-zone.php:126
+msgid "This shipping zone is based on one of more cites"
+msgstr "Diese Versandkosten zone basiert auf einem von mehr zitiert"
+
+#: admin/partials/form-edit-shipping-zone.php:175
+msgid "This shipping zone is based on one of more cities"
+msgstr "Diese Versandkosten zone basiert auf einer mehr Städte"
+
+#: admin/partials/form-add-shipping-zone.php:168
+#: admin/partials/form-edit-shipping-zone.php:224
+msgid "This shipping zone is based on one of more postcodes/zips"
+msgstr ""
+"Diese Versandkosten zone basiert auf einem von mehr "
+"Postleitzahlen/Reißverschlüsse"
+
+#: admin/partials/form-add-shipping-zone.php:87
+msgid "This shipping zone is based on one of more states and counties"
+msgstr ""
+"Diese Versandkosten zone basiert auf einem von mehreren Staaten und "
+"Landkreisen"
+
+#: admin/partials/form-edit-shipping-zone.php:140
+msgid "This shipping zone is based on one of more states/counties"
+msgstr ""
+"Diese Versandkosten zone basiert auf einem von mehreren Staaten/Landkreise"
+
+#: admin/partials/form-add-shipping-zone.php:58
+#: admin/partials/form-edit-shipping-zone.php:112
+msgid "This shipping zone is based on one or more countries"
+msgstr "Diese Versandkosten zone basiert auf einem oder mehreren Ländern"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1253
+msgid "Thursday"
+msgstr "Donnerstag"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1289
+msgid "Time"
+msgstr "Zeit"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1276
+#: admin/partials/afrsm-pro-add-new-page.php:1306
+msgid "Timezone"
+msgstr "Zeitzone"
+
+#: admin/list-tables/class-wc-flat-rate-rule-table.php:37
+msgid "Title"
+msgstr "Titel"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1296
+msgid "To:"
+msgstr "Zu:"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1067
+msgid "Tooltip"
+msgstr "Tooltip"
+
+#: public/class-advanced-flat-rate-shipping-for-woocommerce-public.php:634
+#: woocommerce/cart/cart-shipping.php:75
+msgid "tooltip"
+msgstr "tooltip"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1078
+msgid "Tooltip Description"
+msgstr "Tooltip-Beschreibung"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1063
+msgid "Tooltip type"
+msgstr "QuickInfo Typ"
+
+#: admin/partials/afrsm-pro-add-new-page.php:3026
+#: admin/partials/afrsm-pro-add-new-page.php:3079
+#: admin/partials/afrsm-pro-add-new-page.php:3082
+msgid "Total Cart Qty"
+msgstr "Insgesamt Cart Qty"
+
+#: admin/partials/afrsm-pro-add-new-page.php:3429
+#: admin/partials/afrsm-pro-add-new-page.php:3482
+#: admin/partials/afrsm-pro-add-new-page.php:3485
+msgid "Total Cart Subtotal"
+msgstr "Insgesamt Warenkorb Zwischensumme"
+
+#: admin/partials/afrsm-pro-add-new-page.php:3236
+#: admin/partials/afrsm-pro-add-new-page.php:3289
+#: admin/partials/afrsm-pro-add-new-page.php:3292
+msgid "Total Cart Weight"
+msgstr "Insgesamt Cart Gewicht"
+
+#: public/class-advanced-flat-rate-shipping-for-woocommerce-public.php:498
+#: public/class-advanced-flat-rate-shipping-for-woocommerce-public.php:512
+#: public/class-advanced-flat-rate-shipping-for-woocommerce-public.php:526
+#: public/class-advanced-flat-rate-shipping-for-woocommerce-public.php:531
+msgid "Total Shipping"
+msgstr "Insgesamt Versand"
+
+#: admin/partials/afrsm-premium-version-page.php:281
+msgid "Try Pro to Start 14-Day Free Trial."
+msgstr "Versuchen Sie, Pro Start 14-Day Free Trial."
+
+#: admin/partials/afrsm-pro-add-new-page.php:1251
+msgid "Tuesday"
+msgstr "Dienstag"
+
+#: admin/partials/class-wc-extra-flat-eval-math.php:164
+#: admin/partials/class-wc-extra-flat-eval-math.php:228
+msgid "unexpected ')'"
+msgstr "unexpected ')'"
+
+#: admin/partials/class-wc-extra-flat-eval-math.php:191
+#: admin/partials/class-wc-extra-flat-eval-math.php:198
+msgid "unexpected ','"
+msgstr "unexpected ','"
+
+#: admin/partials/afrsm-pro-add-new-page.php:462
+msgid "Unique Shipping Title"
+msgstr "Einzigartige Versand-Titel"
+
+#: admin/partials/header/plugin-sidebar.php:49
+#: admin/partials/header/plugin-sidebar.php:82
+msgid "Unlimited shipping methods and costs calculation rules"
+msgstr "Unbegrenzte Versandarten und Kosten Rechenregeln"
+
+#: admin/partials/afrsm-premium-version-page.php:17
+#: admin/partials/header/plugin-sidebar.php:45
+#: admin/partials/header/plugin-sidebar.php:78
+msgid "Upgrade to Flat Rate Shipping Pro"
+msgstr "Upgrade auf Flat Rate Shipping Pro"
+
+#: admin/partials/header/plugin-sidebar.php:70
+#: admin/partials/header/plugin-sidebar.php:103
+msgid "Upgrade To Lifetime Pro Plan"
+msgstr "Upgrade Auf Lebenszeit Pro Plan"
+
+#: admin/partials/header/plugin-sidebar.php:64
+#: admin/partials/header/plugin-sidebar.php:97
+msgid "Upgrade To Lifetime Pro Plan & Get"
+msgstr "Upgrade Auf Lebenszeit Pro Plan & Get"
+
+#: admin/partials/header/plugin-header.php:79
+#: admin/partials/header/plugin-header.php:90
+msgid "Upgrade To Pro"
+msgstr "Upgrade Auf Pro"
+
+#: admin/partials/form-add-shipping-zone.php:112
+#: admin/partials/form-edit-shipping-zone.php:164
+msgid "US States"
+msgstr "US-Staaten"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:162
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:433
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:530
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:610
+msgid "User"
+msgstr "Benutzer"
+
+#: admin/partials/header/plugin-sidebar.php:66
+#: admin/partials/header/plugin-sidebar.php:99
+msgid "User Coupon Code:"
+msgstr "Benutzer Gutschein-Code:"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:168
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:434
+msgid "User Role"
+msgstr "Benutzer-Rolle"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:173
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:531
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:611
+msgid "User Role ( In Pro )"
+msgstr "Benutzer Rolle ( In Pro )"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:467
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:553
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:636
+msgid "User Specific"
+msgstr "User Specific"
+
+#: admin/partials/afrsm-premium-version-page.php:106
+msgid ""
+"Using this feature you can create shipping method for specific SKU's "
+"products."
+msgstr ""
+"Mit dieser Funktion können Sie erstellen, die Versand Methode für bestimmte "
+"SKU-Produkte."
+
+#: admin/partials/afrsm-premium-version-page.php:95
+msgid ""
+"Using this feature you can create shipping method for specific tag's "
+"products."
+msgstr ""
+"Mit dieser Funktion können Sie erstellen, die Versand Methode für bestimmte "
+"Tags Produkte an."
+
+#: admin/partials/afrsm-premium-version-page.php:126
+msgid "Using this feature you can create shipping method for specific users."
+msgstr ""
+"Mit dieser Funktion können Sie erstellen, die Versand Methode, die für "
+"bestimmte Benutzer."
+
+#: admin/partials/afrsm-premium-version-page.php:137
+msgid ""
+"Using this feature, shipping method based is visible for specific user "
+"role/group."
+msgstr ""
+"Mit dieser Funktion, Versand-Methode basiert, sichtbar für spezifische "
+"Benutzer-Rolle/Gruppe."
+
+#: admin/partials/header/plugin-sidebar.php:219
+msgid "VIEW ALL"
+msgstr "ALLE ANZEIGEN"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1438
+#: admin/partials/afrsm-pro-add-new-page.php:1870
+#: admin/partials/afrsm-pro-add-new-page.php:2067
+#: admin/partials/afrsm-pro-add-new-page.php:2267
+#: admin/partials/afrsm-pro-add-new-page.php:2464
+#: admin/partials/afrsm-pro-add-new-page.php:2665
+#: admin/partials/afrsm-pro-add-new-page.php:2872
+#: admin/partials/afrsm-pro-add-new-page.php:3071
+#: admin/partials/afrsm-pro-add-new-page.php:3281
+#: admin/partials/afrsm-pro-add-new-page.php:3474
+#: admin/partials/afrsm-pro-add-new-page.php:3678
+msgid "View Documentation"
+msgstr "Anzeigen Der Dokumentation"
+
+#: admin/partials/header/plugin-sidebar.php:159
+msgid "Visit Here »"
+msgstr "Besuchen Sie Hier »"
+
+#: admin/partials/afrsm-pro-list-page.php:370
+msgid "Want to force customers to select a shipping method?"
+msgstr "Zwingen wollen, die Kunden wählen Sie eine Versand Methode?"
+
+#: admin/partials/header/plugin-sidebar.php:158
+msgid ""
+"We improvise our products on a regular basis to deliver the best results to "
+"customer satisfaction."
+msgstr ""
+"Wir improvisieren unsere Produkte auf einer regelmäßigen basis zu liefern, "
+"die besten Ergebnisse zu Kundenzufriedenheit."
+
+#: admin/partials/afrsm-pro-add-new-page.php:1252
+msgid "Wednesday"
+msgstr "Mittwoch"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:199
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:439
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:616
+msgid "Weight"
+msgstr "Gewicht"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:207
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:216
+msgid "Weight  ( In Pro )"
+msgstr "Gewicht ( In Pro )"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:536
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:619
+msgid "Weight ( In Pro )"
+msgstr "Gewicht ( In Pro )"
+
+#: admin/partials/afrsm-pro-add-new-page.php:956
+msgid "Weight - Over"
+msgstr "Gewicht - Über"
+
+#: admin/partials/afrsm-pro-add-new-page.php:941
+msgid "Weight - Per each"
+msgstr "Gewicht - Pro"
+
+#: admin/partials/afrsm-pro-add-new-page.php:926
+msgid "Weight - Rate"
+msgstr "Gewicht - Rate"
+
+#: admin/partials/afrsm-pro-add-new-page.php:935
+msgid "Weight amount"
+msgstr "Gewicht Menge"
+
+#: admin/partials/header/plugin-sidebar.php:52
+#: admin/partials/header/plugin-sidebar.php:85
+msgid "Weight Based Shipping"
+msgstr "Gewicht Basierte Versand"
+
+#: admin/partials/afrsm-pro-add-new-page.php:965
+msgid "Weight over"
+msgstr "Gewicht über"
+
+#: admin/partials/afrsm-pro-add-new-page.php:950
+msgid "Weight per each"
+msgstr "Gewicht pro"
+
+#: admin/partials/afrsm-premium-version-page.php:215
+msgid ""
+"What if, irrespective of the cost of the product, the cart subtotal, the "
+"quantity of product, the product category, or shipping class, you want to "
+"set a minimum/maximum shipping amount for shipping methods? This advanced "
+"flat rate shipping for WooCommerce plugin helps you set minimum and/or "
+"maximum amount based on product cost, category cost, total cart quantity, "
+"product weight, category weight and total category weight."
+msgstr ""
+"Was ist, wenn, unabhängig von den Kosten des Produkts, der Warenkorb "
+"Zwischensumme, die Menge von Produkt, die Produktkategorie oder den "
+"Versandkosten Klasse, die Sie wollen zu set ein minimum - /maximum-"
+"Versandkosten für den Versand Methoden? Das erweiterte flat-rate shipping "
+"for WooCommerce plugin hilft Ihnen, setzen Sie die minimale und/oder "
+"maximale Betrag, basierend auf Produkt-Kosten Kategorie Kosten, Gesamt "
+"Warenkorb Menge, Produkt Gewicht, Kategorie, Gewicht und Gesamtzahl der "
+"Kategorie Gewicht."
+
+#: admin/partials/afrsm-pro-list-page.php:308
+msgid "What to do when multiple shipping methods are available"
+msgstr "Was tun, wenn mehrere Versand Methoden sind verfügbar"
+
+#: admin/partials/afrsm-pro-add-new-page.php:605
+msgid ""
+"When customer select this shipping method the amount will be added to the "
+"cart subtotal. You can enter fixed amount or make it dynamic using below "
+"parameters:<br>\n"
+"\t\t\t\t\t\t\t\t\t&nbsp;&nbsp;&nbsp;<span>[qty]</span> - total number of "
+"items in cart<br>\n"
+"\t\t\t\t\t\t\t\t\t&nbsp;&nbsp;&nbsp;<span>[cost]</span> - cost of items<br>\n"
+"\t\t\t\t\t\t\t\t\t&nbsp;&nbsp;&nbsp;<span>[fee percent=10 min_fee=20]</span> "
+"- Percentage based fee<br>\n"
+"\t\t\t\t\t\t\t\t\t&nbsp;&nbsp;&nbsp;<span>[fee percent=10 max_fee=20]</span> "
+"- Percentage based fee<br><br>\n"
+"\t\t\t\t\t\t\t\t\tBelow are some examples:<br>\n"
+"\t\t\t\t\t\t\t\t\t&nbsp;&nbsp;&nbsp;<strong>i.</strong> 10.00 -> To add flat "
+"10.00 shipping charge.<br>\n"
+"\t\t\t\t\t\t\t\t\t&nbsp;&nbsp;&nbsp;<strong>ii.</strong> 10.00 * <span>[qty]"
+"</span> - To charge 10.00 per quantity in the cart. It will be 50.00 if the "
+"cart has 5 quantity.<br>\n"
+"\t\t\t\t\t\t\t\t\t&nbsp;&nbsp;&nbsp;<strong>iii.</strong> <span>[fee "
+"percent=10 min_fee=20]</span> - This means charge 10 percent of cart "
+"subtotal, minimum 20 charge will be applicable.<br>\n"
+"\t\t\t\t\t\t\t\t\t&nbsp;&nbsp;&nbsp;<strong>iv.</strong> <span>[fee "
+"percent=10 max_fee=20]</span> - This means charge 10 percent of cart "
+"subtotal greater than max_fee then maximum 20 charge will be applicable.<br>"
+"<br>\n"
+"\t\t\t\t\t\t\t\t\t<span class=\"dashicons dashicons-info-outline\"></span>\n"
+"\t\t\t\t\t\t\t\t\t<a href=\"https://docs.thedotstore.com/article/101-"
+"shipping-fee-configuration-form\" target=\"_blank\">View Documentation</a>"
+"<br>"
+msgstr ""
+"Wenn der Kunde diese Versandart auswählt, wird der Betrag zur Zwischensumme "
+"des Warenkorbs hinzugefügt. Sie können einen festen Betrag eingeben oder ihn "
+"mit den folgenden Parametern dynamisch machen:<br>\n"
+"&nbsp;&nbsp;&nbsp;<span>[Menge]</span> – Gesamtzahl der Artikel im "
+"Einkaufswagen<br>\n"
+"&nbsp;&nbsp;&nbsp;<span>[Kosten]</span> - Artikelkosten<br>\n"
+"&nbsp;&nbsp;&nbsp;<span>[Gebührenprozent=10 Min_Gebühr=20]</span> – "
+"Prozentuale Gebühr<br>\n"
+"&nbsp;&nbsp;&nbsp;<span>[Gebührenprozent=10 max_gebühren=20]</span> – "
+"Prozentuale Gebühr<br><br>\n"
+"Nachfolgend einige Beispiele:<br>\n"
+"&nbsp;&nbsp;&nbsp;<strong>i.</strong> 10,00 -> Hinzu kommen pauschal 10,00 "
+"Versandkosten.<br>\n"
+"&nbsp;&nbsp;&nbsp;<strong>ii.</strong> 10,00 * <span>[Menge]</span> - Um 10,"
+"00 pro Menge im Einkaufswagen zu berechnen. Es wird 50,00 sein, wenn der "
+"Warenkorb 5 Stück hat.<br>\n"
+"&nbsp;&nbsp;&nbsp;<strong>iii.</strong> <span>[Gebührenprozent = "
+"10 min_fee=20]</span> – Dies bedeutet, dass 10 % der Zwischensumme des "
+"Einkaufswagens berechnet werden, es fallen mindestens 20 % an.<br >\n"
+"&nbsp;&nbsp;&nbsp;<strong>iv.</strong> <span>[Gebührenprozent=10 "
+"max_Gebühr=20]</span> – Dies bedeutet, dass 10 Prozent der Zwischensumme des "
+"Warenkorbs höher als max_Gebühr berechnet werden, dann werden maximal "
+"20 Gebühren erhoben .<br><br>\n"
+"<span class=\"dashicons dashicons-info-outline\"></span>\n"
+"<a href=\"https://docs.thedotstore.com/article/101-shipping-fee-"
+"configuration-form\" target=\"_blank\">Dokumentation anzeigen</a><br>"
+
+#: admin/partials/afrsm-premium-version-page.php:61
+#: admin/partials/afrsm-premium-version-page.php:80
+msgid "When multiple shipping methods are visible on cart page"
+msgstr "Wenn mehrere Versand Methoden sind sichtbar auf Warenkorb-Seite"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1181
+msgid ""
+"With this feature, you can specify approximately days or time to deliver the "
+"order to the customers. It will increase your conversion ratio. (Not for "
+"forceall shipping method)"
+msgstr ""
+"Mit dieser Funktion können Sie festlegen, etwa Tage oder Zeit zu liefern, um "
+"die Kunden. Es wird steigern Sie Ihre conversion ratio. (Nicht für forceall "
+"Versand Methode)"
+
+#: admin/list-tables/class-wc-shipping-zones-table.php:169
+#, php-format
+msgid "Within %s:"
+msgstr "Innerhalb von %s:"
+
+#: admin/partials/header/plugin-sidebar.php:194
+msgid "WooCommerce Anti-Fraud"
+msgstr "WooCommerce Anti-Betrug"
+
+#: admin/partials/header/plugin-sidebar.php:192
+msgid "WooCommerce Blocker – Prevent Fake Orders"
+msgstr "WooCommerce Blocker – Prevent Fake Orders"
+
+#: admin/partials/header/plugin-sidebar.php:204
+#: admin/partials/header/plugin-sidebar.php:206
+msgid "WooCommerce Category Banner Management"
+msgstr "WooCommerce Kategorie-Banner-Management"
+
+#: admin/partials/afrsm-pro-information-page.php:17
+msgid "WooCommerce Plugin"
+msgstr "WooCommerce Plugin"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:7416
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:7494
+msgid "WooCommerce Plugins"
+msgstr "WooCommerce Plugins"
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:7421
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:7499
+msgid "Wordpress Plugins"
+msgstr "Wordpress-Plugins"
+
+#: admin/partials/class-wc-extra-flat-eval-math.php:179
+msgid "wrong number of arguments (%d given, %d expected"
+msgstr "falsche Anzahl an Argumenten (%d angegeben, %d erwartet"
+
+#: admin/partials/afrsm-pro-add-new-page.php:1118
+#: admin/partials/afrsm-pro-add-new-page.php:1137
+#: admin/partials/afrsm-pro-add-new-page.php:1156
+msgid "Yes"
+msgstr "Ja"
+
+#: admin/partials/afrsm-pro-add-new-page.php:585
+msgid ""
+"You can add fee here to be charged for each additional quantity. E.g. if "
+"user has added 3 quantities\n"
+"                                        and you have set fee=$10 and fee per "
+"additional quantity=$5, then total extra fee=$10+$5+$5=$20."
+msgstr ""
+"Sie können hinzufügen fee, die hier berechnet werden, für jede weitere Menge."
+" E. g. wenn der Benutzer Hinzugefügt hat 3 Mengen, und Sie haben set fee=$10 "
+"Gebühr pro zusätzliche Menge=$5, so wird die gesamte Gebühr=$10+$5+$5=$20."
+
+#: admin/partials/afrsm-premium-version-page.php:197
+msgid ""
+"You can also set shipping methods based on product variations. If there are "
+"two variants of the same product A and B, you can set separate shipping "
+"charges for A and B."
+msgstr ""
+"Sie können auch festlegen, Versand-Methoden auf der Grundlage von Produkt-"
+"Varianten. Wenn es sind zwei Varianten des gleichen Produkts von A und B, "
+"Sie können separate die Versandkosten für A und B."
+
+#: admin/partials/afrsm-forceall-shipping-method.php:24
+msgid ""
+"You can configure this special shipping option from Advanced Flat Rate "
+"Shipping Method settings."
+msgstr ""
+"Sie können konfigurieren, dass dieser spezielle Versandoption, die von "
+"Advanced Flat Rate Shipping Methode Einstellungen."
+
+#: admin/partials/afrsm-pro-add-new-page.php:2491
+msgid ""
+"You can set a maximum category quantity per row before the fee amount is "
+"applied."
+msgstr ""
+"Sie können maximal Kategorie Anzahl pro Zeile, bevor die Gebühr, die Menge "
+"ist aufgebracht."
+
+#: admin/partials/afrsm-pro-add-new-page.php:2899
+msgid ""
+"You can set a maximum category weight per row before the fee amount is "
+"applied."
+msgstr ""
+"Sie können maximal Kategorie Gewicht pro Zeile, bevor die Gebühr, die Menge "
+"ist aufgebracht."
+
+#: admin/partials/afrsm-pro-add-new-page.php:1899
+msgid ""
+"You can set a maximum product quantity per row before the fee amount is "
+"applied."
+msgstr ""
+"Sie können die maximale Produktmenge pro Reihe, bevor die Gebühr, die Menge "
+"ist aufgebracht."
+
+#: admin/partials/afrsm-pro-add-new-page.php:2296
+msgid ""
+"You can set a maximum product weight per row before the fee amount is "
+"applied."
+msgstr ""
+"Sie können maximal Gewicht pro Zeile, bevor die Gebühr, die Menge ist "
+"aufgebracht."
+
+#: admin/partials/afrsm-pro-add-new-page.php:3705
+msgid ""
+"You can set a maximum shipping class cart subtotal per row before the fee "
+"amount is applied."
+msgstr ""
+"Sie können maximal Versand-class cart subtotal pro Zeile, bevor die Gebühr, "
+"die Menge ist aufgebracht."
+
+#: admin/partials/afrsm-pro-add-new-page.php:3098
+msgid ""
+"You can set a maximum total cart quantity per row before the fee amount is "
+"applied."
+msgstr ""
+"Sie können maximal insgesamt Warenkorb Menge pro Reihe, bevor die Gebühr, "
+"die Menge ist aufgebracht."
+
+#: admin/partials/afrsm-pro-add-new-page.php:2095
+#: admin/partials/afrsm-pro-add-new-page.php:2693
+msgid ""
+"You can set a maximum total cart subtotal per row before the fee amount is\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\tapplied."
+msgstr ""
+"Sie können maximal insgesamt Warenkorb Zwischensumme pro Zeile, bevor die "
+"Gebühr, die Menge ist aufgebracht."
+
+#: admin/partials/afrsm-pro-add-new-page.php:3502
+msgid ""
+"You can set a maximum total cart subtotal per row before the fee amount is\n"
+"\t\t\t\t\t\t\t\t\t\t\t\tapplied."
+msgstr ""
+"Sie können maximal insgesamt Warenkorb Zwischensumme pro Zeile, bevor die "
+"Gebühr, die Menge ist aufgebracht."
+
+#: admin/partials/afrsm-pro-add-new-page.php:3308
+msgid ""
+"You can set a maximum total cart weight per row before the fee amount is "
+"applied."
+msgstr ""
+"Sie können maximal insgesamt cart Gewicht pro Zeile, bevor die Gebühr, die "
+"Menge ist aufgebracht."
+
+#: admin/partials/afrsm-pro-add-new-page.php:2483
+msgid ""
+"You can set a minimum category quantity per row before the fee amount is "
+"applied."
+msgstr ""
+"Sie können einen Mindest-Kategorie Anzahl pro Zeile, bevor die Gebühr, die "
+"Menge ist aufgebracht."
+
+#: admin/partials/afrsm-pro-add-new-page.php:2891
+msgid ""
+"You can set a minimum category weight per row before the fee amount is "
+"applied."
+msgstr ""
+"Sie können einen Mindest-Kategorie Gewicht pro Zeile, bevor die Gebühr, die "
+"Menge ist aufgebracht."
+
+#: admin/partials/afrsm-pro-add-new-page.php:1891
+msgid ""
+"You can set a minimum product quantity per row before the fee amount is "
+"applied."
+msgstr ""
+"Können Sie eine minimale Produktmenge pro Reihe, bevor die Gebühr, die Menge "
+"ist aufgebracht."
+
+#: admin/partials/afrsm-pro-add-new-page.php:2288
+msgid ""
+"You can set a minimum product weight per row before the fee amount is "
+"applied."
+msgstr ""
+"Können Sie eine minimale Produkt-Gewicht pro Zeile, bevor die Gebühr, die "
+"Menge ist aufgebracht."
+
+#: admin/partials/afrsm-pro-add-new-page.php:3697
+msgid ""
+"You can set a minimum shipping class cart subtotal per row before the fee "
+"amount is applied."
+msgstr ""
+"Können Sie eine minimale Versand-class cart subtotal pro Zeile, bevor die "
+"Gebühr, die Menge ist aufgebracht."
+
+#: admin/partials/afrsm-pro-add-new-page.php:3090
+msgid ""
+"You can set a minimum total cart quantity per row before the fee amount is "
+"applied."
+msgstr ""
+"Können Sie eine minimale Gesamt Warenkorb Menge pro Reihe, bevor die Gebühr, "
+"die Menge ist aufgebracht."
+
+#: admin/partials/afrsm-pro-add-new-page.php:2086
+#: admin/partials/afrsm-pro-add-new-page.php:2684
+msgid ""
+"You can set a minimum total cart subtotal per row before the fee amount is\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\tapplied."
+msgstr ""
+"Können Sie eine minimale Gesamt Warenkorb Zwischensumme pro Zeile, bevor die "
+"Gebühr, die Menge ist aufgebracht."
+
+#: admin/partials/afrsm-pro-add-new-page.php:3493
+msgid ""
+"You can set a minimum total cart subtotal per row before the fee amount is\n"
+"\t\t\t\t\t\t\t\t\t\t\t\tapplied."
+msgstr ""
+"Können Sie eine minimale Gesamt Warenkorb Zwischensumme pro Zeile, bevor die "
+"Gebühr, die Menge ist aufgebracht."
+
+#: admin/partials/afrsm-pro-add-new-page.php:3300
+msgid ""
+"You can set a minimum total cart weight per row before the fee amount is "
+"applied."
+msgstr ""
+"Können Sie eine minimale Gesamt Warenkorb Gewicht pro Zeile, bevor die "
+"Gebühr, die Menge ist aufgebracht."
+
+#: admin/partials/afrsm-pro-shipping-zone-page.php:221
+msgid "You must choose at least 1 city to add city zone."
+msgstr ""
+"Sie müssen wählen Sie mindestens 1 Stadt zum hinzufügen von Stadt-zone."
+
+#: admin/partials/afrsm-pro-shipping-zone-page.php:210
+msgid "You must choose at least 1 country to add a zone."
+msgstr "Sie müssen wählen Sie mindestens 1 Land hinzufügen, um eine zone."
+
+#: admin/partials/afrsm-pro-shipping-zone-page.php:235
+msgid "You must choose at least 1 postcode to add postcode zone."
+msgstr "Sie müssen wählen Sie mindestens 1 Postleitzahl auf add-PLZ-zone."
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:479
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:578
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:661
+msgid ""
+"You need to select product specific option in Shipping Method Rules for "
+"product based option"
+msgstr ""
+"Sie müssen wählen Sie Produkt-spezifische option in Verschiffenmethode "
+"Regeln für die Produkt-basierte option"
+
+#: admin/partials/header/plugin-sidebar.php:125
+msgid "Your Review is very important to us as it helps us to grow more."
+msgstr ""
+"Ihre Bewertung ist uns sehr wichtig, denn er hilft uns, um mehr zu wachsen."
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:476
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:557
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:575
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:640
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:658
+msgid "Your settings successfully saved."
+msgstr "Ihre Einstellungen erfolgreich gespeichert."
+
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:76
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:84
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:93
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:426
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:523
+#: admin/class-advanced-flat-rate-shipping-for-woocommerce-admin.php:603
+#: admin/partials/afrsm-pro-shipping-zone-page.php:177
+msgid "Zone"
+msgstr "Zone"
+
+#: admin/list-tables/class-wc-shipping-zones-table.php:222
+msgid "Zone ID"
+msgstr "Zone-ID"
+
+#: admin/list-tables/class-wc-shipping-zones-table.php:223
+msgid "Zone name"
+msgstr "Zone name"
+
+#: admin/partials/afrsm-pro-shipping-zone-page.php:173
+msgid "Zone name is required"
+msgstr "Zone name ist erforderlich"
+
+#: admin/partials/form-add-shipping-zone.php:48
+#: admin/partials/form-add-shipping-zone.php:52
+#: admin/partials/form-edit-shipping-zone.php:104
+#: admin/partials/form-edit-shipping-zone.php:108
+msgid "Zone Type"
+msgstr "Zone Typ"
+
+#: admin/list-tables/class-wc-shipping-zones-table.php:224
+msgid "Zone type"
+msgstr "Zone Typ"
